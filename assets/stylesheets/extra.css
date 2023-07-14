@@ -1,0 +1,17 @@
+.md-typeset .admonition, .md-typeset details {
+    color: var(--md-admonition-fg-color);
+    font-size: .74rem;
+}
+
+.md-typeset .admonition, .md-typeset details {
+    background-color: var(--md-admonition-bg-color);
+    border: .065rem solid #448aff;
+}
+
+.md-typeset .footnote-ref {
+    font-size: 1.00em;
+}
+
+.md-typeset h3 {
+    font-weight: 700;
+}
