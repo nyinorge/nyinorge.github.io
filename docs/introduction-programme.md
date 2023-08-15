@@ -5,15 +5,17 @@ hide:
 ---
 !!! updated ""
 
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **04.08.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **15.08.2023**
 
-??? question "Cписок вопросов (открыть)"
+!!! question "Cписок вопросов"
     [TOC]
 
-# Что из себя представляет интеграционная программа в Норвегии? 
-:fontawesome-regular-file-pdf: IMDi: [Інформація про ознайомлювальну програму та вивчення мови (для тих хто отримав тимчасовий колективний захист)](https://www.imdi.no/globalassets/dokumenter/informasjon-om-introduksjonsprogram-og-sprakopplaring-for-personer-med-kollektiv-beskyttelse/informasjon-om-introduksjonsprogram-2022---ukrainsk.pdf)
+# 1. Что из себя представляет интеграционная программа? 
+Вся официальная информация представлена Директоратом по делам интеграции и многоэтничности (IMDi) в отдельном документе:
 
-# Как влияет наличие личных денежных средств и дохода от работы на получение пособия участника программы интеграции?
+:fontawesome-regular-file-pdf: [Інформація про ознайомлювальну програму та вивчення мови (для тих хто отримав тимчасовий колективний захист)](https://www.imdi.no/contentassets/01a5d4b027b74dc0abee4fbdb8f0d3b7/ukrainsk---informasjon-om-introduksjonsprogram-og-sprakopplaring-for-deg-med-midlertidig-kollektiv-beskyttelse.pdf)
+
+# 2. Как влияет наличие личных денежных средств и дохода от работы на получение пособия участника программы интеграции?
 
 - Пособие не уменьшается при наличии собственных денежных средств.
 - Пособие не уменьшается, если беженец имеет доход от трудовой деятельности (при условии, что вы полностью посещаете интеграционною программу).
@@ -23,7 +25,7 @@ hide:
 > 
 > - [Юридический путеводитель по закону об интеграции (Integreringsloven § 23. Egne midler)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
 
-# Расчёт суммы ежемесячного пособия участника программы интеграции
+# 3. Расчёт суммы ежемесячного пособия участника программы интеграции
 Расчёт пособия участника программы интеграции производится по формуле на основе двукратного размера т.н. базовой социальной единицы **G** (grunnbeløpet). [C 01.05.2023 базовая соц единица (**G**) составляет 118 620 норвежских крон](https://www.nav.no/grunnbelopet). Пособие по интеграционной программе облагается подоходным налогом.
 
 - **В год:** 2 х 118 620 = 237 240 норвежских крон. 
@@ -42,3 +44,7 @@ hide:
 >
 > - [NAV: Базовая социальная единица G (Grunnbeløpet i folketrygden)](https://www.nav.no/grunnbelopet)
 > - [IMDi: Юридический путеводитель по закону об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
+
+---
+
+[Вернуться к оглавлению](index.md){ .md-button .md-button--primary }
