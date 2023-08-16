@@ -65,8 +65,10 @@ hide:
 8. Вы подписываете контракт на аренду жилья.
 9. Вы переезжаете со временем в коммуну.
 
-
-
+!!! info "Сайты поиска жилья"
+    - [finn.no](https://www.finn.no/realestate/browse.html)
+    - [hybel.no](https://hybel.no/)
+    
 > :material-book-outline: Источники: 
 >
 > - [Поселение семьи и одиноких взрослых в mottak (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/familier-og-enslige-voksne/)

@@ -10,19 +10,6 @@ hide:
 !!! question "Cписок вопросов"
     [TOC]
 
-# Полезные ссылки
-## Работа 
-
--  Поиск работы в Норвегии: [https://www.nav.no/ukraina/uk#shukati-robotu-v-norvegiyi](https://www.nav.no/ukraina/uk#shukati-robotu-v-norvegiyi) 
--  Краткая информация о работе в Норвегии: [https://arbeidsplassen.nav.no/ua/work-in-norway](https://arbeidsplassen.nav.no/ua/work-in-norway)
-- Работа в Норвегии: Ваши права и обязанности (Трудовая инспекция): [https://www.arbeidstilsynet.no/en/knowyourrights-UK/](https://www.arbeidstilsynet.no/en/knowyourrights-UK/)
-- Список порталов поиска работы, кадровые и рекрутинговые агентства (список составлен Университетом Осло): [https://www.uio.no/studier/karriere/finn-jobben/utlysninger/jobbportaler.html](https://www.uio.no/studier/karriere/finn-jobben/utlysninger/jobbportaler.html)
-
-## Учеба
-Інформація щодо навчання в Норвегії.
-
-[https://www.studyinnorway.no/](https://www.studyinnorway.no/)
-
 # Социальная помощь
 
 ## О медицинской помощи в Норвегии
@@ -129,23 +116,10 @@ hide:
 > - [Закон об иммиграции. Постоянный вид на жительство (Utlendingsloven § 62)](https://lovdata.no/lov/2008-05-15-35/§62)
 
 
-## Где прочитать о типах разрешения упомянутых выше и какие требования к ним?
+## Где прочитать подробнее о типах разрешения?
+
 Cайт UDI (директорат по делам иностранцев) на английском: :octicons-link-external-16: [https://udi.no/en/want-to-apply/?c=ukr](https://udi.no/en/want-to-apply/?c=ukr).
 
-# Статистика
-## Статистика принятых заявлений по коллективной защите (UDI)
-[https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/)
-
-## Статистика количество расселенных беженцев (IMDI)
-
-[https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/)
-
-### Пояснение к таблице
-- **Anmodningstall**: Общее количество беженцев государство (в лице IMDI) просит определенную коммуну поселить в этом году - это не цифра которая коммуна фактически готова принять.
-- **Antall bosatte personer**: Количество расселенных беженцев (здесь все беженцы, включая беженцев из Украины)
-- **Antall bosatte personer med kollektiv beskyttelse**: Количество расселенных беженцев с коллективной защитой
-- **Antall personer kommunen har avtalt å bosette**: Количество беженцев о которых коммуна договорилась с IMDI о поселении (но еще не расселены)
-- **Antall personer med kollektiv beskyttelse kommunen har avtalt å bosette**: Количество беженцев с коллективной защитой о которых коммуна договорилась с IMDI о поселении (: означает число скрыто)
 
 
 ---

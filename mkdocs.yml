@@ -10,7 +10,6 @@ theme:
   favicon: assets/favicon.png
   features:
     - navigation.tracking
-    - navigation.tabs
     - navigation.sections
     - search.suggest
     - search.share
@@ -29,6 +28,8 @@ nav:
   - Пособия: 'benefits.md'
   - Жилье: 'housing.md'
   - Таможенные правила: 'toll.md'
+  - Статистика: 'stats.md'
+  - Работа: 'work.md'
 
 
 plugins:

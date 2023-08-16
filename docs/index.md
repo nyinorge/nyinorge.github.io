@@ -27,15 +27,16 @@ hide:
 Использование автомобиля с иностранными номерами. Водительские удостоверения.
 
 ## :books: [Про интеграционную программу](introduction-programme.md)
-Интродукционая программа
 
 ## :material-help-box-multiple: [Пособия](benefits.md)
-О пособиях на различных этапах.
 
-## :house: [Жилье/расселение](housing.md)
-Как происходит расселение беженцев в Норвегии.
+## :house: [Жилье](housing.md)
 
-## :customs: [Таможенные правила](toll.md)
+## :material-hammer-wrench: [Работа](work.md)
+
+## :customs: [Таможенные правила Норвегии](toll.md)
+
+## :fontawesome-solid-chart-pie: [Статистика](stats.md)
 
 ## :material-arrow-left-box: [Иные вопросы](mode-of-life.md)
 То, что пока мы еще не успели определить в отдельные страницы.
