@@ -43,7 +43,17 @@ hide:
 > :material-book-outline: Источники: 
 >
 > - [NAV: Базовая социальная единица G (Grunnbeløpet i folketrygden)](https://www.nav.no/grunnbelopet)
+> - [Lovdata: Закон об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://lovdata.no/lov/2020-11-06-127/§20)
 > - [IMDi: Юридический путеводитель по закону об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
+
+# 4. Имею ли я право на отпуск/каникулы во время интродукционной программы?
+Участники интродукционной программы имеют право на отпуск продолжительностью до 25 рабочих дней с пособием по интродукционной программе. Коммуна определяет в какие дни можно взять отпуск.
+
+Иными словами, отпуск нужно согласовывать с коммуной.
+
+> :material-book-outline: Источники: 
+>
+> - [Lovdata: Положение к закону о интеграции (Integreringsforskriften § 18. Ferie)](https://lovdata.no/forskrift/2020-12-15-2912/§18)
 
 ---
 
