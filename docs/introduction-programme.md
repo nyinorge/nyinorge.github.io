@@ -16,11 +16,23 @@ hide:
 :fontawesome-regular-file-pdf: [Інформація про ознайомлювальну програму та вивчення мови (для тих хто отримав тимчасовий колективний захист)](https://www.imdi.no/contentassets/01a5d4b027b74dc0abee4fbdb8f0d3b7/ukrainsk---informasjon-om-introduksjonsprogram-og-sprakopplaring-for-deg-med-midlertidig-kollektiv-beskyttelse.pdf)
 
 # 2. Продолжительность и конечная цель интеграционной программы
-(...)
+> Ниже представлен неофициальный перевод юридического путеводителя к закону об интеграции глава 6A (Juridisk veileder til integreringslovens midlertidige kapittel 6A). Пояснения, которые не входят в оригинал текста, промаркированы специальным знаком (:raised_back_of_hand:), и являються толкованием автора неофициального перевода. 
 
-Лица, получившие полное среднее образование в Украине и не имеющие дополнительно одного года высшего образования, могут участвовать в ознакомительной программе сроком до одного года, если их конечной целью является переход в высшее или высшее профессиональное учебное заведение. 
+Integreringslovens § 37 c skiller mellom deltakere som minimum har utdanning på videregående nivå fra før, og de som ikke har det. Det er i integreringsforskriften § 43 a fastsatt at personer med fullført videregående skole fra Ukraina anses for å ha utdanning på videregående nivå.
 
+Лица, получившие полное среднее образование в Украине и не имеющие дополнительно одного года высшего образования, могут участвовать в ознакомительной программе сроком до одного года, если их конечной целью является переход в высшее или высшее профессиональное учебное заведение. Конечной целью может быть, например, начало дополнительного образования или получение общеобразовательной квалификации (generell studiekompetanse). Программа не может быть продлена cвыше этого срока. Оставшаяся часть дополнительного образования должна быть получена вне рамок интродукционной программы.
 
+> :raised_back_of_hand: Для поступление в высшие учебные заведения (на баклавриат, одногодичные программы, 5-летние интегрированные магистерские программы и профессиональные программы) в Норвегии нужно, кроме среди прочего, иметь аттестат о окончании средней школы, и так же, не менее 1 года высшего образования. Подробно об этом на сайте :octicons-link-external-16: [Samordna opptak](https://www.samordnaopptak.no/info/utenlandsk_utdanning/ukraina/opptakskrav/index.html).
+
+Лица, получившие образование не ниже среднего и имеющие в качестве конечной цели работу, могут участвовать в ознакомительной программе сроком до шести месяцев. Рамки продолжительности программы определяются индивидуально с учетом того, чтобы человек достиг своей конечной цели в установленные сроки. 
+
+Программа может быть продлена на срок до шести месяцев, чтобы общая продолжительность программы составила один год. Программа может быть продлена на срок до шести месяцев, чтобы общая продолжительность программы составила один год. Вопрос о продлении интродукционной программы должен решаться с учетом конечной цели участника. Конечная цель не может быть поставлена с самого начала, если ясно, что она не может быть достигнута по истечении обычного шестимесячного срока. Только когда обычный срок подходит к концу, коммуна может решить, соблюдены ли условия для возможного продления программы. 
+
+Программа может быть продлена только в том случае, если есть основания ожидать, что участник достигнет своей конечной цели при продлении. Недостаточно того, что участник приблизится к конечной цели с помощью продления, продление имеет значение только в том случае, если существует реальная возможность того, что участник сможет достичь своей конечной цели с помощью продления. Эта оценка на усмотрения коммуны, и коммуна должна дать конкретную общую оценку достигнутого участником прогресса, насколько он близок к достижению конечной цели, зависит ли он от помощи коммуны в достижении конечной цели и какова мотивация участника. Продление особенно актуально, если оно может привести к получению участником формальной квалификации. При необходимости программы формального образования могут быть реализованы с финансированием расходов на проживание со стороны Lånekassen.
+
+Personer som ikke har utdanning på videregående nivå, kan delta i et introduksjonsprogram med varighet slik som integreringslovens vanlige regler i § 13 tredje eller fjerde ledd fastsetter. Dette innebærer at for deltakere under 25 år skal programmet vare mellom tre måneder og tre år og kan forlenges med inntil ett år. Har deltakeren andre sluttmål enn fullført videregående opplæring, skal programmet vare mellom tre måneder og to år og kan forlenges med inntil ett år. For øvrige deltakere som ikke har utdanning på videregående nivå skal programmet vare mellom tre måneder og to år og kan forlenges med inntil et år. Har deltakeren sluttmål om fullført videregående opplæring, skal programmet vare mellom tre måneder og tre år og kan forlenges med inntil et år.
+
+Kommunen fastsette sluttmål for deltakelsen i program etter integreringsloven § 37 c. For disse deltakerne skal sluttmålet for programmet være overgang til lønnet arbeid, høyere utdanning eller høyere yrkesfaglig utdanning. Videre kan programmet kun forlenges hvis det er grunn til å forvente at deltakeren vil oppnå sitt sluttmål ved forlengelse. Programmet skal avsluttes når deltakeren oppnår sitt sluttmål eller de ytre grensene for program er nådd.
 
 Источник: https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringslovens-midlertidige-kapittel-6a/
 
@@ -32,7 +44,7 @@ hide:
 
 > :material-book-outline: Источник:
 > 
-> - [Юридический путеводитель по закону об интеграции (Integreringsloven § 23. Egne midler)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
+> - [Юридический путеводитель к закону об интеграции (Integreringsloven § 23. Egne midler)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
 
 # 4. Расчёт суммы ежемесячного пособия участника программы интеграции
 Расчёт пособия участника программы интеграции производится по формуле на основе двукратного размера т.н. базовой социальной единицы **G** (grunnbeløpet). [C 01.05.2023 базовая соц единица (**G**) составляет 118 620 норвежских крон](https://www.nav.no/grunnbelopet). Пособие по интеграционной программе облагается подоходным налогом.
@@ -53,7 +65,7 @@ hide:
 >
 > - [NAV: Базовая социальная единица G (Grunnbeløpet i folketrygden)](https://www.nav.no/grunnbelopet)
 > - [Lovdata: Закон об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://lovdata.no/lov/2020-11-06-127/§20)
-> - [IMDi: Юридический путеводитель по закону об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
+> - [IMDi: Юридический путеводитель к закону об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
 
 
 ---
