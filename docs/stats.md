@@ -6,11 +6,11 @@ hide:
 # Статистика по коллективной защите (UDI)
 Включает в себя информацию о количестве Украинцев, подавших на коллективную защиту, и количество получивших коллективную защиту.
 
-[https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/)
+[:octicons-link-external-16: https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/)
 
 # Статистика по количеству расселенных беженцев (IMDI)
 
-[https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/)
+[:octicons-link-external-16: https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/)
 
 ### Пояснение к таблице
 - **Antall personer kommunen har blitt anmodet om å bosette**: Общее количество беженцев которое государство (в лице IMDI) просит коммуну поселить в этом году.
@@ -23,7 +23,7 @@ hide:
 # Статистическое бюро Норвегии (SSB)
 Статистическое бюро Норвегии (SSB) является основным органом, отвечающим за подготовку и распространение официальной статистики в Норвегии.
 
-Официальный сайт: [https://www.ssb.no/](https://www.ssb.no/)
+Официальный сайт: [:octicons-link-external-16: https://www.ssb.no/](https://www.ssb.no/)
 
 ---
 

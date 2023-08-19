@@ -15,9 +15,9 @@ hide:
 
 ## Официальная информация от UDI про временное проживание в пунктов временного размещения беженцев:
 
-- :octicons-link-external-16: [Що таке центр термінового розміщення?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30222){target=_blank}
+- [:octicons-link-external-16: Що таке центр термінового розміщення?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30222){target=_blank}
 
-- :fontawesome-regular-file-pdf: [Ласкаво просимо в центр термінового розміщення](https://www.udi.no/globalassets/ukrainasituasjonen-inkl-russlandinfo/ukr---velkommen-til-akuttinnkvartering-v2.pdf){target=_blank} (PDF)
+- [:fontawesome-regular-file-pdf: Ласкаво просимо в центр термінового розміщення](https://www.udi.no/globalassets/ukrainasituasjonen-inkl-russlandinfo/ukr---velkommen-til-akuttinnkvartering-v2.pdf){target=_blank}
 
 # Могу ли я сам найти место для проживания?
 Проживание в mottak не является обязательным, вы так же можете проживать за ваш счет в любом ином жилье (в частном порядке). Если вы хотите жить в частном порядке, но так же получать экономическую помощь, вы должны подать [:octicons-link-external-16: **заявления o проживании по частному адресу (временное альтернативное место проживания)**](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/apply-for-private-housing/). До подачи заявления об альтернативном проживании, Ваше заявление о временной коллективной защите должно быть зарегистрировано норвежскими миграционными властями. Не все норвежские коммуны принимают порядок альтернативного размещения.
