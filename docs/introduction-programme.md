@@ -18,7 +18,7 @@ hide:
 Если вы хотите узнать более подробно про юридический контекст к интродукционной программе, то вы можете посмотреть [юридический путеводитель к закону об интеграции, глава 6А (на норвежском](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringslovens-midlertidige-kapittel-6a/). Информация про возможную длительность программы описана под пунктом "Introduksjonsprogram" (интродукционноая программа).
 
 
-# 3. Как влияет наличие личных денежных средств и дохода от работы на получение пособия участника программы интеграции?
+# 2. Как влияет наличие личных денежных средств и дохода от работы на получение пособия участника программы интеграции?
 
 - Пособие не уменьшается при наличии собственных денежных средств.
 - Пособие не уменьшается, если беженец имеет доход от трудовой деятельности (при условии, что вы полностью посещаете интеграционною программу).
@@ -26,12 +26,10 @@ hide:
 
 > :material-book-outline: Источник:
 > 
-> - [Юридический путеводитель к закону об интеграции (Integreringsloven § 23. Egne midler)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
-
+> - [Юридический путеводитель по закону об интеграции (Integreringsloven § 23. Egne midler)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
 
 # 3. Расчёт суммы ежемесячного пособия участника программы интеграции
 Расчёт пособия участника программы интеграции производится по формуле на основе двукратного размера т.н. базовой социальной единицы **G** (grunnbeløpet). C 01.05.2023 базовая соц единица (**G**) составляет [:octicons-link-external-16: 118 620 норвежских крон](https://www.nav.no/grunnbelopet). Пособие по интеграционной программе облагается подоходным налогом.
-
 
 - **В год:** 2 х 118 620 = 237 240 норвежских крон. 
 
@@ -49,8 +47,16 @@ hide:
 >
 > - [NAV: Базовая социальная единица G (Grunnbeløpet i folketrygden)](https://www.nav.no/grunnbelopet)
 > - [Lovdata: Закон об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://lovdata.no/lov/2020-11-06-127/§20)
-> - [IMDi: Юридический путеводитель к закону об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
+> - [IMDi: Юридический путеводитель по закону об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
 
+# 4. Имею ли я право на отпуск/каникулы во время интродукционной программы?
+Участники интродукционной программы имеют право на отпуск продолжительностью до 25 рабочих дней с пособием по интродукционной программе. Коммуна определяет в какие дни можно взять отпуск.
+
+Иными словами, отпуск нужно согласовывать с коммуной.
+
+> :material-book-outline: Источники: 
+>
+> - [Lovdata: Положение к закону о интеграции (Integreringsforskriften § 18. Ferie)](https://lovdata.no/forskrift/2020-12-15-2912/§18)
 
 ---
 
