@@ -21,8 +21,7 @@ extra_css:
 nav:
   - Главная: 'index.md'
   - Коллективная защита: 'collective-protection.md'
-  - Интеграционная программа: 'introduction-programme.md'
-  - Иные вопросы: 'other.md'
+  - Интродукционная (ознакомительная) программа: 'introduction-programme.md'
   - Въезд с животными: 'animals.md'
   - Водителям: 'automobile.md'
   - Экономическая поддержка: 'benefits.md'
@@ -30,6 +29,7 @@ nav:
   - Таможенные правила: 'toll.md'
   - Статистика: 'stats.md'
   - Про работу в Норвегии: 'work.md'
+  - Иные вопросы: 'other.md'
 
 
 plugins:

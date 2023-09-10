@@ -23,7 +23,7 @@ hide:
 ## :speaking_head: [Як спілкуватися через перекладача](https://www.imdi.no/globalassets/illustrasjoner/ukraina/a-fore-en-samtale-via-tolk_ukrainsk.pdf)
 Ця пам’ятка коротко пояснює, яким чином в Норвегії здійснюється спілкування через перекладача, яка його роль у спілкуванні і що це означає для вас.
 
-## :books: [Интеграционная программа](introduction-programme.md)
+## :books: [Интродукционная (ознакомительная) программа](introduction-programme.md)
 
 ## :house: [Жилье](housing.md)
 

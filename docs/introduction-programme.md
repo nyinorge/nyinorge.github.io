@@ -15,7 +15,7 @@ hide:
 
 [:fontawesome-regular-file-pdf: Інформація про ознайомлювальну програму та вивчення мови (для тих хто отримав тимчасовий колективний захист)](https://www.imdi.no/contentassets/01a5d4b027b74dc0abee4fbdb8f0d3b7/ukrainsk---informasjon-om-introduksjonsprogram-og-sprakopplaring-for-deg-med-midlertidig-kollektiv-beskyttelse.pdf)
 
-Если вы хотите узнать более подробно про юридический контекст к интродукционной программе, то вы можете посмотреть [юридический путеводитель к закону об интеграции, глава 6А (на норвежском](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringslovens-midlertidige-kapittel-6a/). Информация про возможную длительность программы описана под пунктом "Introduksjonsprogram" (интродукционноая программа).
+Если вы хотите узнать более подробно про юридический контекст к интродукционной программе, то вы можете посмотреть [юридический путеводитель к закону об интеграции, глава 6А (на норвежском)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringslovens-midlertidige-kapittel-6a/). Информация про возможную длительность программы описана под пунктом "Introduksjonsprogram" (интродукционноая программа).
 
 
 # 2. Как влияет наличие личных денежных средств и дохода от работы на получение пособия участника программы интеграции?
