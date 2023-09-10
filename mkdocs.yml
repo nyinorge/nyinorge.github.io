@@ -25,11 +25,11 @@ nav:
   - Иные вопросы: 'other.md'
   - Въезд с животными: 'animals.md'
   - Водителям: 'automobile.md'
-  - Пособия: 'benefits.md'
+  - Экономическая поддержка: 'benefits.md'
   - Жилье: 'housing.md'
   - Таможенные правила: 'toll.md'
   - Статистика: 'stats.md'
-  - Работа: 'work.md'
+  - Про работу в Норвегии: 'work.md'
 
 
 plugins:
