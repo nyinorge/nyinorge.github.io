@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# Право работать 
+# Разрешение на трудовую деятельность
 
 Получив коллективную защиту, вы получаете и разрешение на трудовую деятельность. Вы не можете работать до того, как получите решение о предоставлении вам коллективной защиты.
 
@@ -22,7 +22,7 @@ hide:
 
 - [:octicons-link-external-16: Список регулируемых профессий в Норвегии (HK-dir)](https://hkdir.no/en/foreign-education/lists-and-databases/regulated-professions) 
 
-    Если вы хотите работать по одной из этих профессий, вам необходимо получить разрешение/признание вашей профессиональной квалификации.
+    Если вы хотите работать по одной из профессий, указаных в списке выше, вам необходимо будет получить разрешение/признание вашей профессиональной квалификации.
 
 - [:octicons-link-external-16: Утверждение медицинского персонала с образованием из-за рубежа (Helsedirektoratet)](https://www.helsedirektoratet.no/veiledere/ansettelse-av-helsepersonell/helsemyndighetenes-ansvar/godkjenning-av-helsepersonell-med-utdanning-fra-utlandet)
     - [:octicons-link-external-16: Авторизация и лицензия (Helsedirektoratet)](https://www.helsedirektoratet.no/tema/autorisasjon-og-spesialistutdanning/autorisasjon-og-lisens)

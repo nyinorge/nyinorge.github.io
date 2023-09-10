@@ -6,7 +6,7 @@ hide:
 
 !!! updated ""
 
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **15.08.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **10.09.2023**
 
 !!! question "Cписок вопросов"
     [TOC]
@@ -19,12 +19,6 @@ hide:
 - [:octicons-link-external-16: Надання медичної допомоги шукачам притулку та біженцям у Норвегії](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/){target=_blank}
 
 - [:octicons-link-external-16: Переведення для проходження лікування у шпиталі в Норвегії](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/overforing-til-sykehus-i-norge/){target=_blank}
-
-
-## Информация про Husbanken
-У вас високі витрати на житло та низький дохід? У цьому разі ви можете мати право на отримання житлової субсидії. 
-
-[:octicons-link-external-16: Подайте заявку на отримання житлової субсидії!](https://nedlasting.husbanken.no/Filer/9e5u.pdf)
 
 ## Учитывается ли детское пособие (barnetrygd) при подсчете социальной помощи для семьи?
 Не должны, согласно [:octicons-law-16: Sosialtjenesteloven § 18](https://lovdata.no/lov/2009-12-18-131/§18).

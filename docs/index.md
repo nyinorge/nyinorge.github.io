@@ -27,13 +27,13 @@ hide:
 
 ## :house: [Жилье](housing.md)
 
-## :material-help-box-multiple: [Пособия](benefits.md)
+## :material-hand-coin: [Экономическая поддержка](benefits.md)
 
-## :red_car: [Водительские права. Использование автомобиля](automobile.md)
+## :red_car: [Водительские права и использование личного автомобиля](automobile.md)
 
-## :material-hammer-wrench: [Работа](work.md)
+## :material-hammer-wrench: [Про работу в Норвегии](work.md)
 
-## :customs: [Таможенные правила Норвегии](toll.md)
+## :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
 
 ## :fontawesome-solid-chart-pie: [Статистика](stats.md)
 
