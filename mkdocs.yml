@@ -33,17 +33,9 @@ nav:
 
 
 plugins:
-# - blog:
-#     enabled: false
-#     draft_if_future_date: true
-#     blog_dir: articles
-#     post_date_format: long
-#     post_url_format: "{slug}"
-#     post_readtime: false
-#      blog_toc: false
-#      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
-#        kwds:
-#          case: lower
+  - redirects:
+      redirect_maps:
+        'other.md': 'annet.md'
   - search:
       lang: 
         - ru
