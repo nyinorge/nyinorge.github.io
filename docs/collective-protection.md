@@ -24,7 +24,7 @@ hide:
 | IMDI (Integrerings- og mangfoldsdirektoratet) 	| **Директорат по вопросам интеграции и культурно-этнического разнообразия** (IMDi) является государственным организацией, которая отвечает за реализацию государственной политики интеграции. IMDI отвечает в том числе за распределение беженцев в коммуны, после того как беженцы получили коллективную защиту.                                                                                                                                                                                                                                                                                                               	| [https://www.imdi.no/](https://www.imdi.no/)                        	|
 | Politiet                                      	| **Национальная полиция Норвегии** (Politiet). Среди других функций в отношении иностранцев полиция Норвегии выполняет функции, связанные с проживанием иностранцев в стране: регистрация искателей убежища, контроль документов, удостоверяющих личность, принятие и рассмотрение заявлений.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                	| [https://www.politiet.no/](https://www.politiet.no/)                	|
 
-# 1. Что такое коллективная защита? Что дает коллективная защита? { #hva-er-kollektiv-beskyttelse }
+# 1. Что такое коллективная защита? Что дает коллективная защита? { #om-kollektiv-beskyttelse }
 
 _Коллективная защита_ является временным убежищем, на ограниченный срок, для граждан Украины, которые покинули Украину в результате агрессии ₚф против Украины. Коллективная защита включает в себя, например, доступ к социальным услугам, право на работу и получение образования, медицинскую помощь. Так же, коллективная защита дает доступ к государственной программе интеграции (интродукционная программа), которая в свою очередь даёт право на материальное пособие, жилье, курсы языка. [:octicons-milestone-24: Cм. также "Что из себя представляет интродукционная (ознакомительная) программа"](introduction-programme.md#1).
 
@@ -53,12 +53,12 @@ _Коллективная защита_ является временным уб
 > - [Термін дії дозволу на колективний захист (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30167)
 
 
-# 2. Кто имеет право получить коллективную защиту? { #hvem-kan-faa-kollektiv-beskyttelse }
-Лица, которые имеет право получить коллективную защиту в Норвегии можно посмотреть на сайте  [:octicons-link-external-16: Директоратата по делам иностранцев (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164).
+# 2. Кто может получить коллективную защиту? { #hvem-kan-få-kollektiv-beskyttelse }
+Лица, которые могут получить коллективную защиту в Норвегии можно посмотреть на сайте  [:octicons-link-external-16: Директоратата по делам иностранцев (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164).
 
 **См. также**: [:octicons-link-external-16: На кого **не** распространяется коллективная защита?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30183)
 
-# 2.1 Несовершеннолетние просители коллективной защиты { #kollektiv-beskyttelse-for-mindreaarige }
+# 2.1 Несовершеннолетние просители коллективной защиты { #enslige-mindreårige-asylsøkere  }
 ??? abstract "(Нажмите здесь, что бы открыть ответ) "
     **Я несовершеннолетний проситель коллективной защиты (без родителей)**
 
@@ -93,7 +93,7 @@ _Коллективная защита_ является временным уб
     > - [Representatives for unaccompanied minor asylum seekers (udi.no)](https://udi.no/word-definitions/representatives-for-unaccompanied-minor-asylum-seekers/)
     > - [Bosetting av enslige mindreårige flyktninger (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-fyktninger/)
 
-# 3. У меня есть коллективная защита или разрешение на проживание в другой европейской стране { #beskyttelse-i-et-annet-land }
+# 3. У меня есть коллективная защита или разрешение на проживание в другой европейской стране { #opphold-i-et-annet-land }
 - Убедитесь, что вы подпадаете под критерии получения временной защиты (см. пункт выше).
 - Лица, которые выехали из Украины на работу или учебу в другую страну на момент 24.02.2022, кроме Норвегии, не подпадают под коллективную защиту,  [:octicons-link-external-16: даже если прибывание в другой стране было меньше чем 90 дней до 24 февраля 2022](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-004/#4.4._Hvem_omfattes_av_midlertidi). 
 - Если Вы подаете заявление о получении защиты в Норвегии и относитесь к числу тех, кто может получить коллективную защиту, то UDI рассмотрит ваше заявление в Норвегии.
@@ -117,7 +117,7 @@ _Коллективная защита_ является временным уб
 
 [Ознакомьтесь с правилами легального въезда в Норвегию на сайте Директората по делам иностранцев](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/travel-to-norway/#link-30130).
 
-# 5. **Как** подать ходатайство о получении коллективной защиты? { #registrering-hvordan }
+# 5. **Как** подать ходатайство о получении коллективной защиты? { #registrering-1 }
 
 По приезду в Норвегию обратитесь к *Полиции* (Politi), или напрямую в места регистрации беженцев (см. вопрос ниже). 
 
@@ -143,7 +143,7 @@ _Коллективная защита_ является временным уб
 > - [Я громадянин України і хочу подати заявку на отримання захисту (притулку). Як мені діяти? (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/#link-32062)
 > - [Как происходит регистрация и что делать после прохождения регистрации (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
 
-# 6. **Где** подать ходатайство о получении коллективной защиты? { #registrering-hvor }
+# 6. **Где** подать ходатайство о получении коллективной защиты? { #registrering-2 }
 
 - Как правило, будучи просителем убежища, Вы должны зарегистрироваться в Национальном центре прибытия и регистрации беженцев (Nasjonalt ankomstsenter, **Råde**), :material-map-marker: [Mosseveien 58, 1640 Råde](https://www.google.com/maps/dir//Nasjonalt+ankomstsenter+R%C3%A5de,+Mosseveien+58,+1640+R%C3%A5de/@59.3576031,10.770232,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4646ab1b1efd56eb:0x39588a797b28d652!2m2!1d10.8408566!2d59.3578675). 
 - Беженцы из Украины, ходатайствующие о защите, также могут зарегистрироваться в пяти других местах в Норвегии (в региональных управлениях Полиции): **Kirkenes**, **Trondheim**, **Bergen**, **Jæren** (возле Stavanger/Sandnes) и **Torp**.
@@ -162,7 +162,7 @@ _Коллективная защита_ является временным уб
 - Если вы едете на машине, то вы можете ехать напрямую в Национальный центр прибытия и регистрации беженцев (Nasjonalt ankomstsenter, **Råde**). 
 
 
-## Адреса мест регистрации (куда можно приехать напрямую) { #registreringssted }
+## Адреса мест регистрации (куда можно приехать напрямую) { #adresse }
 
 - **Национальный центр прибытия и регистрации беженцев (Nasjonalt ankomstsenter, Råde)** 
 
@@ -193,7 +193,7 @@ _Коллективная защита_ является временным уб
 > - [Прибуття до Норвегії (udi.no)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/)
 > - [Обращение за коллективной защитой гражданам Украины (politiet.no)](https://www.politiet.no/en/english/residence-permits-and-protection/the-war-in-ukraine/applying-for-collective-protection-as-a-ukrainian-national/)
 
-# 7. У меня еще есть вопросы { #andre-spm }
+# 7. У меня еще есть вопросы { #spørsmål }
 
 !!! info "**Вам необходимо связаться с Директоратом по делам иностранцев (UDI)**?"
 
@@ -211,7 +211,7 @@ _Коллективная защита_ является временным уб
 
 !!! warning "В этом ответе понятия "индивидуальная защита", "защита" и "убежище" равнозначны. Текст ниже именно о **индивидуальной** защите (где не указаного иного)"
 
-## Основания для получение индивидуальной защиты
+## Основания для получение индивидуальной защиты 
 По текущим правилам, согласно закону о иммиграции (Utlendingsloven § 28):
 
 !!! note ""

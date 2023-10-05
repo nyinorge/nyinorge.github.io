@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# Статистика по коллективной защите (UDI)
+# Статистика по коллективной защите (UDI) { #udi }
 Включает в себя информацию о количестве Украинцев, подавших на коллективную защиту, и количество получивших коллективную защиту.
 
 [:octicons-link-external-16: https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/)
@@ -20,7 +20,7 @@ hide:
 - **Antall personer kommunen har avtalt å bosette**: Общее количество беженцев о которых коммуна договорилась с IMDi о поселении (но еще не расселены)
 - **Antall personer med kollektiv beskyttelse kommunen har avtalt å bosette**: Количество беженцев с коллективной защитой о которых коммуна договорилась с IMDi о поселении (: означает число скрыто)
 
-# Статистическое бюро Норвегии (SSB)
+# Статистическое бюро Норвегии (SSB) { #ssb }
 Статистическое бюро Норвегии (SSB) является основным органом, отвечающим за подготовку и распространение официальной статистики в Норвегии.
 
 Официальный сайт: [:octicons-link-external-16: https://www.ssb.no/](https://www.ssb.no/)

@@ -7,7 +7,7 @@ hide:
 # **Волонтерский проект "Ny i Norge"** :flag_ua: :flag_no: 
 Кратко о важном, для тех, кто собирается приехать в Норвегию.
 
-# Часто задаваемые вопросы
+# Часто задаваемые вопросы { #faq }
 
 ## :flag_no: [Ласкаво просимо до Норвегії (інформація про норвезьке суспільство)](https://www.imdi.no/globalassets/illustrasjoner/ukraina/information-about-norwegian-society-2022---ukrainsk0822.pdf)
 
