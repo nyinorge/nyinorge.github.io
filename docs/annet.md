@@ -49,7 +49,7 @@ hide:
 > - [Travelling abroad: You need a valid residence card (udi.no)](https://www.udi.no/en/important-messages/have-you-made-plans-to-travel-abroad/)
 
 # Что делать если коллективная защита закончиться, и я хочу получить право на пребывание в Норвегии, и в последствии ПМЖ?
-См. [:octicons-milestone-24: Получение ПМЖ в Норвегии](permanent-residency.md)
+См. [:octicons-milestone-24: Получение ПМЖ в Норвегии](permanent-oppholdstillatelse.md)
 
 ---
 
