@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 !!! updated ""
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **10.09.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **05.10.2023**
 
 
 !!! question "Cписок вопросов"
@@ -155,7 +155,7 @@ _Коллективная защита_ является временным уб
 > **Для тех, кто прибывает в Осло или в аэропорт Gardemoen**
 > 
 > - Если вы приехали в Осло **автобусом** в автобусный терминал Осло (Oslo bussterminal), то вы можете обратиться в Полицейский участок:
->     - **Politi, Seksjon for utlendingsforvaltning** по адресу :material-map-marker: **Schweigaards gate 15b, 0191 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Schweigaards+gate+15b,+0191+Oslo/@59.9106758,10.7579482,17.58z/data=!4m6!3m5!1s0x46416ef552ea7ffd:0x118b6b258fba179b!8m2!3d59.9106037!4d10.7595887!16s%2Fg%2F11c43txphv?entry=ttu). Участок находиться рядом с автобусным терминалом. Участок открыт drop-in 09:00-11:30, общее время работа 09:00-15:00 понедельник, вторник, четверг и пятница.
+>     - **Politi, Seksjon for utlendingsforvaltning** по адресу :material-map-marker: **Schweigaards gate 15b, 0191 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Schweigaards+gate+15b,+0191+Oslo/@59.9106758,10.7579482,17.58z/data=!4m6!3m5!1s0x46416ef552ea7ffd:0x118b6b258fba179b!8m2!3d59.9106037!4d10.7595887!16s%2Fg%2F11c43txphv?entry=ttu). Участок находиться рядом с автобусным терминалом. Участок открыт drop-in :material-clock: 09:00-11:30, общее время работа :material-clock: 09:00-15:00 понедельник, вторник, четверг и пятница.
 >     - **Grønland politistasjon** по адресу :material-map-marker: **Grønlandsleiret 44, 0190 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Gr%C3%B8nlandsleiret+44,+0190+Oslo/@59.9107932,10.7701928,17z/data=!4m6!3m5!1s0x46416e58a5a302f9:0x7c7e8523e2fc289!8m2!3d59.9107368!4d10.7704374!16s%2Fg%2F11bw3fcsvp?entry=ttu). Участок открыт с :material-clock: 08:00-23:00 ежедневно, включая выходные. Вам нужен "Politivakt" внутри участка.
 >
 > - В аэропорту **Gardemoen** полицию можно найти в зоне прибытия, см. номер 18 на [:octicons-link-external-16: карте зоны прибытия](https://avinor.no/contentassets/336912d007744165918e0dffd7f1ec8c/ankomst-01.06.23.pdf).
@@ -173,14 +173,19 @@ _Коллективная защита_ является временным уб
 - **Bergen** 
     :material-map-marker: [Kokstadflaten 2, 5257 Kokstad](https://www.google.com/maps/dir//Scandic+Kokstad,+Kokstadflaten+2,+5257+Kokstad/@60.2894335,5.2289895,13.13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x463cf09e68f426c1:0x2c19616996c4fd5a!2m2!1d5.2586071!2d60.2900563)
 
-    Отель *Scandic Kokstad*. Обращайтесь напрямую в отель по прибытию. 
+    Отель *Scandic Kokstad*. Обращайтесь напрямую в отель по прибытию. Выходите из аэропорта, идете влево, спускайетесь вниз, садитесь на скоростной трамвай номер 1 до остановки     Birkelandsskiftet, оттуда идите до отеля Scandic Kokstad. Он принимает круглосуточно. [Расписание скоростного травмая](https://reise.skyss.no/stops/trip/SKY:ServiceJourney:1-174434-16264513/route-direction/SKY:Line:1~inbound/stop/NSR:Quay:51856)
 
 - **Sandnes (рядом с Stavanger)** 
   :material-map-marker: [Roald Amundsens gate 115, 4307 Sandnes](https://www.google.com/maps/dir//Roald+Amundsens+gate+115,+4307+Sandnes/@58.8703355,5.671128,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x463a36625477eb9b:0x673c135f2eee9786!2m2!1d5.741339!2d58.8703545)
     
     Отель *Thon Partner Hotel Sandnes*. Обращайтесь в Полицию по прибытию в Stavanger, либо обращайтесь напрямую в отель по прибытию.
 
-- **Kirkenes** или **Trondheim**: Обратитесь в Полицию
+- **Trondheim**: :material-map-marker: [Kongens gate 40, 7012 Trondheim](https://www.google.com/maps/place/Pensjonat+Jarlen/@63.4307117,10.3892029,17z/data=!3m1!4b1!4m9!3m8!1s0x466d3185296b44a3:0xc8ef2d48119e973f!5m2!4m1!1i2!8m2!3d63.4307117!4d10.3892029!16s%2Fg%2F1ths7zvs?entry=ttu)
+
+    _Pensjonat Jarlen_ c 25.08.23. Обращайтесь в Полицию по прибытию в Trondheim, либо обращайтесь напрямую в Pensjonat Jarlen по прибытию.
+
+- **Kirkenes**: Обратитесь в Полицию по прибытию.
+
 
 > :material-book-outline: Источники: 
 > 
