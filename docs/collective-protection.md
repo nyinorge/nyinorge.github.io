@@ -154,7 +154,9 @@ _Коллективная защита_ является временным уб
 
 > **Для тех, кто прибывает в Осло или в аэропорт Gardemoen**
 > 
-> - Если вы приехали в Осло **автобусом** в автобусный терминал Осло (Oslo bussterminal), то вы можете обратиться в Полицейский участок **Grønland politistasjon** по адресу :material-map-marker: **Grønlandsleiret 44, 0190 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Gr%C3%B8nlandsleiret+44,+0190+Oslo/@59.9107932,10.7701928,17z/data=!4m6!3m5!1s0x46416e58a5a302f9:0x7c7e8523e2fc289!8m2!3d59.9107368!4d10.7704374!16s%2Fg%2F11bw3fcsvp?entry=ttu). Участок открыт с :material-clock: 08:00-23:00 ежедневно, включая выходные. Вам нужен "Politivakt" внутри участка.
+> - Если вы приехали в Осло **автобусом** в автобусный терминал Осло (Oslo bussterminal), то вы можете обратиться в Полицейский участок:
+>     - **Politi, Seksjon for utlendingsforvaltning** по адресу :material-map-marker: **Schweigaards gate 15b, 0191 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Schweigaards+gate+15b,+0191+Oslo/@59.9106758,10.7579482,17.58z/data=!4m6!3m5!1s0x46416ef552ea7ffd:0x118b6b258fba179b!8m2!3d59.9106037!4d10.7595887!16s%2Fg%2F11c43txphv?entry=ttu). Участок находиться рядом с автобусным терминалом. Участок открыт drop-in 09:00-11:30, общее время работа 09:00-15:00 понедельник, вторник, четверг и пятница.
+>     - **Grønland politistasjon** по адресу :material-map-marker: **Grønlandsleiret 44, 0190 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Gr%C3%B8nlandsleiret+44,+0190+Oslo/@59.9107932,10.7701928,17z/data=!4m6!3m5!1s0x46416e58a5a302f9:0x7c7e8523e2fc289!8m2!3d59.9107368!4d10.7704374!16s%2Fg%2F11bw3fcsvp?entry=ttu). Участок открыт с :material-clock: 08:00-23:00 ежедневно, включая выходные. Вам нужен "Politivakt" внутри участка.
 >
 > - В аэропорту **Gardemoen** полицию можно найти в зоне прибытия, см. номер 18 на [:octicons-link-external-16: карте зоны прибытия](https://avinor.no/contentassets/336912d007744165918e0dffd7f1ec8c/ankomst-01.06.23.pdf).
 
