@@ -20,22 +20,31 @@ extra_css:
 
 nav:
   - Главная: 'index.md'
-  - Коллективная защита: 'collective-protection.md'
-  - Интродукционная (ознакомительная) программа: 'introduction-programme.md'
-  - Въезд с домашним питомцем в Норвегию: 'animals.md'
-  - Водителям: 'automobile.md'
-  - Экономическая поддержка: 'benefits.md'
-  - Жилье: 'housing.md'
+  - Коллективная защита: 'kollektiv-beskyttelse.md'
+  - Интродукционная (ознакомительная) программа: 'introduksjonsprogram.md'
+  - Въезд с домашним питомцем в Норвегию: 'kjaeledyr.md'
+  - Водителям: 'forerkort-og-bil.md'
+  - Экономическая поддержка: 'stote.md'
+  - Жилье: 'bolig.md'
   - Таможенные правила: 'toll.md'
-  - Статистика: 'stats.md'
-  - Про работу в Норвегии: 'work.md'
-  - Иные вопросы: 'other.md'
+  - Статистика: 'statistikk.md'
+  - Про работу в Норвегии: 'jobb.md'
+  - Иные вопросы: 'annet.md'
 
 
 plugins:
   - redirects:
       redirect_maps:
+        'collective-protection.md': 'kollektiv-beskyttelse.md'
+        'introduction-programme.md': 'introduksjonsprogram.md'
+        'animals.md': 'kjaeledyr.md'
         'other.md': 'annet.md'
+        'work.md': 'jobb.md'
+        'stats.md': 'statistikk.md'
+        'housing.md': 'bolig.md'
+        'automobile.md': 'forerkort-og-bil.md'
+        'permanent-residency.md': 'permanent-oppholdstillatelse.md'
+        'benefits.md': 'stotte.md'
   - search:
       lang: 
         - ru
