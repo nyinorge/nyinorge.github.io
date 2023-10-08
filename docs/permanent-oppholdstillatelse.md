@@ -1,5 +1,5 @@
 ---
-title: Получение ПМЖ в Норвегии
+title: Получения постоянного вида на жительство в Норвегии
 hide:
   - navigation
   - toc
@@ -8,7 +8,7 @@ hide:
 !!! updated ""
     :octicons-clock-16: Информация на этой странице актуальна по состоянию на **08.10.2023**
 
-## Дает ли коллективная защита право на получения ПМЖ? 
+## Дает ли коллективная защита право на получения постоянного вида на жительство? 
 
 Коллективная защита в Норвегии в течение первых трех лет не служит основанием для получения постоянного вида на жительство. Иными словами, *временное* разрешение на пребывание (midlertidig oppholdstillatelse) по коллективной защите не дает право на получение *постоянного* разрешения на пребывание в Норвегии. 
 
@@ -20,11 +20,13 @@ hide:
 
 В итоге получается 3 года коллективной защиты + 3/5 лет временного разрешения на пребывание, дающее право на постоянный вид на жительство = 6 или 8 лет. Только после этого – подача заявления о получении постоянного вида на жительства. 
 
-Обращаем ваше внимание, что с коллективной защиты можно перейти на иные типы разрешения на прибывания, например виза специалиста, не дожидаясь истечения 3-летнего срока.
+Обращаем ваше внимание, что с коллективной защиты можно перейти на иные типы разрешения на прибывания, например виза специалиста, не дожидаясь истечения срока действия коллективной защиты. Иными словами, после получение коллективной защиты, вы можете подать заявление на получений других видов разрешений на пребывания.
+
+Подробно прочитать про виды разрешений можно на сайте UDI: [:octicons-link-external-16: https://udi.no/en/want-to-apply/?c=ukr](https://udi.no/en/want-to-apply/?c=ukr).
 
 > :material-book-outline: Источник: 
 > 
-> - [Закон об иммиграции. Коллективная защита (Utlendingsloven § 34)](https://lovdata.no/dokument/NL/lov/2008-05-15-35/KAPITTEL_4#%C2%A734)
+> - [Закон об иммиграции, раздел 4, параграф 34 (Utlendingsloven § 34)](https://lovdata.no/dokument/NL/lov/2008-05-15-35/KAPITTEL_4#%C2%A734)
 
 ## Какие виды на жительство служат основанием для постоянного вида на жительство?
 
@@ -44,7 +46,7 @@ hide:
 
 > :material-book-outline: Источник: 
 > 
-> - [:octicons-link-external-16: Виды на жительство, являющийся основанием для постоянного вида на жительство (udi.no)](https://udi.no/en/word-definitions/residence-permits-forming-the-basis-for-a-permanent-residence-permit/)
+> - [:octicons-link-external-16: Residence permits forming the basis for a permanent residence permit (udi.no)](https://udi.no/en/word-definitions/residence-permits-forming-the-basis-for-a-permanent-residence-permit/)
 
 ## Расчет срока пребывания для постоянного вида на жительство
 
@@ -59,14 +61,10 @@ hide:
 - Имеет индивидуальную защиту
 - Иметь вид на жительство из-за сильных гуманитарных соображений
 
-Что означает непрерывное проживания, и с какой даты исчисляется срок проживания, можно узнать на [:octicons-link-external-16: сайте UDI](https://udi.no/en/word-definitions/calculating-the-residence-period-for-permanent-residence-permits/).
+Подробную информацию можно узнать в источниках ниже.
 
 > :material-book-outline: Источники: 
 > 
-> - [Расчет срока пребывания для постоянного вида на жительство (udi.no)](https://udi.no/en/word-definitions/calculating-the-residence-period-for-permanent-residence-permits/)
-> - [Закон об иммиграции. Постоянный вид на жительство (Utlendingsloven § 62)](https://lovdata.no/lov/2008-05-15-35/§62)
+> - [Calculating the residence period for permanent residence permits (udi.no)](https://udi.no/en/word-definitions/calculating-the-residence-period-for-permanent-residence-permits/)
+> - [Закон об иммиграции, раздел 7, параграф 62 (Utlendingsloven § 62)](https://lovdata.no/lov/2008-05-15-35/§62)
 
-
-# Где можно прочитать подробнее?
-
-Cайт UDI: [:octicons-link-external-16: https://udi.no/en/want-to-apply/?c=ukr](https://udi.no/en/want-to-apply/?c=ukr).
