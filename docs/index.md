@@ -18,12 +18,13 @@ hide:
 
 ## :speaking_head: [Як спілкуватися через перекладача](https://www.imdi.no/globalassets/illustrasjoner/ukraina/a-fore-en-samtale-via-tolk_ukrainsk.pdf)
 
-
 ## :books: [Интродукционная (ознакомительная) программа](introduksjonsprogram.md)
 
 ## :house: [Жилье](bolig.md)
 
 ## :material-hand-coin: [Экономическая поддержка](stotte.md)
+
+## :material-hospital-box: [Медицинская помощь](helsehjelp.md)
 
 ## :red_car: [Водительские права и использование личного автомобиля](forerkort-og-bil.md)
 
@@ -32,6 +33,8 @@ hide:
 ## :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
 
 ## :fontawesome-solid-chart-pie: [Статистика](statistikk.md)
+
+## :material-passport: [Получения постоянного вида на жительство в Норвегии](permanent-oppholdstillatelse.md)
 
 ## :material-arrow-left-box: [Иные вопросы](annet.md)
 То, что пока мы еще не успели определить в отдельные страницы.

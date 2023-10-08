@@ -29,7 +29,7 @@ nav:
   - Таможенные правила: 'toll.md'
   - Статистика: 'statistikk.md'
   - Про работу в Норвегии: 'jobb.md'
-  - Иные вопросы: 'annet.md'
+  - Медицинская помощь: 'helsehjelp.md'
 
 
 plugins:
@@ -45,6 +45,7 @@ plugins:
         'automobile.md': 'forerkort-og-bil.md'
         'permanent-residency.md': 'permanent-oppholdstillatelse.md'
         'benefits.md': 'stotte.md'
+        'annet.md': 'index.md'
   - search:
       lang: 
         - ru
