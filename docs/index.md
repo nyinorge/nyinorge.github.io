@@ -32,9 +32,6 @@ hide:
 
 ## :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
 
-## :fontawesome-solid-chart-pie: [Статистика](statistikk.md)
-
 ## :material-passport: [Получения постоянного вида на жительство в Норвегии](permanent-oppholdstillatelse.md)
 
-## :material-arrow-left-box: [Иные вопросы](annet.md)
-То, что пока мы еще не успели определить в отдельные страницы.
+## :fontawesome-solid-chart-pie: [Статистика](statistikk.md)
