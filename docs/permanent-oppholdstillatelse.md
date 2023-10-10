@@ -24,9 +24,10 @@ hide:
 
 Подробно прочитать про виды разрешений можно на сайте UDI: [:octicons-link-external-16: https://udi.no/en/want-to-apply/?c=ukr](https://udi.no/en/want-to-apply/?c=ukr).
 
-> :material-book-outline: Источник: 
+> :material-book-outline: Источники: 
 > 
-> - [Закон об иммиграции, раздел 4, параграф 34 (Utlendingsloven § 34)](https://lovdata.no/dokument/NL/lov/2008-05-15-35/KAPITTEL_4#%C2%A734)
+> - [Закон об иммиграции, раздел 4, параграф 34 (Utlendingsloven § 34)](https://lovdata.no/lov/2008-05-15-35/§34)
+> - [Закон об иммиграции, раздел 7, параграф 62 (Utlendingsloven § 62)](https://lovdata.no/lov/2008-05-15-35/§62)
 
 ## Какие виды на жительство служат основанием для постоянного вида на жительство?
 
@@ -44,7 +45,7 @@ hide:
 - Вид на жительство в качестве Au Pair
 - Проживание на основании серьезных гуманитарных соображений с ограничениями
 
-> :material-book-outline: Источник: 
+> :material-book-outline: Источники: 
 > 
 > - [:octicons-link-external-16: Residence permits forming the basis for a permanent residence permit (udi.no)](https://udi.no/en/word-definitions/residence-permits-forming-the-basis-for-a-permanent-residence-permit/)
 
