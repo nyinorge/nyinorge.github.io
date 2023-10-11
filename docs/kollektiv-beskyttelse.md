@@ -96,7 +96,7 @@ hide:
     > - [Flyktninger og asylsøkere: Enslige mindreårige asylsøkere (statsforvalteren.no)](https://www.statsforvalteren.no/nb/portal/Folk-og-samfunn/flyktninger-og-asylsokere/)
     > - [Din rolle som representant (statsforvalteren.no)](https://www.statsforvalteren.no/nb/oslo-og-viken/vergemal/vergemal-for-barn/representantordningen/din-rolle-som-representant/)
     > - [Representatives for unaccompanied minor asylum seekers (udi.no)](https://udi.no/word-definitions/representatives-for-unaccompanied-minor-asylum-seekers/)
-    > - [Bosetting av enslige mindreårige flyktninger (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-fyktninger/)
+    > - [Bosetting av enslige mindreårige flyktninger (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-flyktninger/)
 
 # 3. У меня есть коллективная защита или разрешение на проживание в другой европейской стране { #opphold-i-et-annet-land }
 - Убедитесь, что вы подпадаете под критерии получения временной защиты (см. пункт выше).
