@@ -5,7 +5,7 @@ hide:
 ---
 !!! updated ""
 
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **05.10.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **11.10.2023**
 
 !!! question "Cписок вопросов"
     [TOC]
@@ -26,9 +26,11 @@ hide:
 
 Иными словами, если вы участвуете в интродукционной программе полный рабочий день, вы можете работать по выходным и вечерам без уменшение пособия по интродукционной программе.
 
-> :material-book-outline: Источник:
+> :material-book-outline: **Источники**
+>
+> Официальные сайты Норвегии
 > 
-> - [Юридический путеводитель по закону об интеграции (Integreringsloven § 23. Egne midler)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
+> - [Juridisk veileder til integreringslovens § 23](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
 
 # 3. Расчёт суммы ежемесячного пособия участника интродукционной программы { #introduksjonsstonad }
 Расчёт пособия участника программы интеграции производится по формуле на основе двукратного размера т.н. базовой социальной единицы **G** (grunnbeløpet). C 01.05.2023 базовая соц единица (**G**) составляет [:octicons-link-external-16: 118 620 норвежских крон](https://www.nav.no/grunnbelopet). Пособие по интеграционной программе облагается подоходным налогом. 
@@ -47,11 +49,16 @@ hide:
 
 - **Участники до 25, живущие с родителями**, получают 1/3 суммы пособия.
 
-> :material-book-outline: Источники: 
+> :material-book-outline: **Источники**
 >
-> - [NAV: Базовая социальная единица G (Grunnbeløpet i folketrygden)](https://www.nav.no/grunnbelopet)
-> - [Lovdata: Закон об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://lovdata.no/lov/2020-11-06-127/§20)
-> - [IMDi: Юридический путеводитель по закону об интеграции (Integreringsloven § 20. Beregning av introduksjonsstønad)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
+> Законодательство
+> 
+> - [Integreringsloven § 20](https://lovdata.no/lov/2020-11-06-127/§20)
+> - [Juridisk veileder til integreringslovens § 20](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
+> 
+> Официальные сайты Норвегии
+> 
+> - [Grunnbeløpet i folketrygden (NAV)](https://www.nav.no/grunnbelopet)
 
 ---
 

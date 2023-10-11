@@ -5,7 +5,7 @@ hide:
 ---
 
 !!! updated ""
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **05.10.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **11.10.2023**
 
 [TOC]
 
@@ -35,10 +35,15 @@ hide:
 
     - [Информация про пограничную страховку (Trafikkforsikringsforeningen)](https://www.tff.no/temasider/grenseforsikring2/)
 
-> :material-book-outline: Источники:
+> :material-book-outline: **Источники**
 > 
+> Законодательство 
+>
+> - [Bilansvarslova §15](https://lovdata.no/dokument/NL/lov/1961-02-03)
+>
+> Официальные сайты Норвегии
+>
 > - [Інформація для шукачів притулку з України. Використання автомобіля з іноземними номерами (skatteetaten.no)](https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina2/){target=_blank}
-> - [Закон об ответственности за ущерб, причиненный автотранспортными средствами (bilansvarslova §15)](https://lovdata.no/dokument/NL/lov/1961-02-03)
 > - [Таможня Норвегии (Toll). Важная информация для беженцев из Украины.](https://www.toll.no/no/verktoy/regelverk/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/)
 
 # Водительские удостоверения { #forerkort }
@@ -51,12 +56,17 @@ hide:
 - Украинские водительские права с истекшим сроком действия недействительны для вождения в Норвегии. 
     - Водительские удостоверения с ограниченным сроком действия (испытательный срок, т.е выданные впервые) тем не менее действительны для вождения в Норвегии, даже если срок их действия истек. Это вытекает из действующих правил ЕС.
 
-> :material-book-outline: Источники: 
+> :material-book-outline: **Источники**
+> 
+> Законодательство 
+>
+> - [Førerkortforskriften § 8-5. Førerkort utstedt i Ukraina](https://lovdata.no/forskrift/2004-01-19-298/§8-5)
+> - [Førerkortforskriften § 1-1. Førerkortplikt m.m.](https://lovdata.no/forskrift/2004-01-19-298/§1-1)
+> - [Førerkortforskriften § 3-1. Førerkortklasser – oversikt, minstealder](https://lovdata.no/forskrift/2004-01-19-298/§3-1)
+> 
+> Официальные сайты Норвегии
 > 
 > - [Норвежская дорожная администрация (Statens vegvesen). О водительских прав Украины](https://www.vegvesen.no/forerkort/har-forerkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/forerkort-fra-ukraina/){target=_blank}.
-> - [Положение о водительских правах. Водительское удостоверение, выданное в Украине (Førerkortforskriften § 8-5)](https://lovdata.no/forskrift/2004-01-19-298/§1-2)
-> - [Положение о водительских правах. Признание иностранных водительских прав (Førerkortforskriften § 1-2)](https://lovdata.no/forskrift/2004-01-19-298/§1-2)
-> - [Положение о водительских правах. Классы водительских удостоверений - обзор, минимальный возраст (Førerkortforskriften § 3-1)](https://lovdata.no/forskrift/2004-01-19-298/§1-2)
 > - [Driver Certificate of Professional Competence (Statens vegvesen)](https://www.vegvesen.no/en/driving-licences/training-for-professional-drivers/professional-driver/?lang=en)
 
 

@@ -33,6 +33,11 @@ nav:
 
 
 plugins:
+  - enumerate-headings:
+      toc_depth: 0
+      increment_across_pages: false
+      include:
+          - "kollektiv-beskyttelse.md"
   - redirects:
       redirect_maps:
         'collective-protection.md': 'kollektiv-beskyttelse.md'
@@ -60,7 +65,7 @@ markdown_extensions:
 - footnotes
 - toc:
       permalink: true
-      baselevel: 2
+      baselevel: 1
 - admonition
 - pymdownx.details
 - pymdownx.superfences

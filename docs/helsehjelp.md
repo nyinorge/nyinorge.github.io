@@ -5,11 +5,6 @@ hide:
   - toc
 ---
 
-!!! updated ""
-
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **08.10.2023**
-
-
 # Ccылки на подробную информацию о медицинской помощи в Норвегии
 - [:fontawesome-regular-file-pdf: Обстеження на туберкульоз (ТБ) після прибуття до Норвегії](https://www.fhi.no/contentassets/1d5f19a4669b4a5b8ef8704da8ef6060/vedlegg/tuberkuloseundersokelse-ukrainsk.pdf)
 

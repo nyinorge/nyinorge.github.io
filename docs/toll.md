@@ -5,7 +5,7 @@ hide:
 ---
 !!! updated ""
 
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **05.10.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **11.10.2023**
 
 # Таможенные правила для въезжающих в Норвегию { #toll }
 Подробнее о таможенных правилах для въезжающих в Норвегию можно найти на сайте Таможни Норвегии (Toll): [:octicons-link-external-16: https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/](https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/)
@@ -21,7 +21,9 @@ hide:
 
 > :material-book-outline: Источники: 
 > 
-> - [Ввоз лекарств в Норвегию (Норвежское агентство лекарственных средств - Statens legemiddelverk)](https://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/legemidler-pa-reise-inn-til-norge)
+> Официальные сайты Норвегии
+>
+> - [Import av legemidler til personlig bruk (Statens legemiddelverk)](https://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/legemidler-pa-reise-inn-til-norge)
 
 
 ---

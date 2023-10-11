@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 !!! updated ""
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **05.10.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **11.10.2023**
 
 
 !!! question "Cписок вопросов"
@@ -12,19 +12,19 @@ hide:
 
 ---
 
-# 0. Словарь { #ordbok }
+# Термины и сокращения встречающиеся на этой странице { #ordbok }
 
 | Термин                             	| Значение                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	| Ссылка                                                                            	|
 |------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------	|
 | Kommune (коммуна) и fylke (округи) 	| Норвегия разделена на 11 **fylke**/округов ([:octicons-link-external-16: карта](https://www.regjeringen.no/no/tema/kommuner-og-regioner/regionreform/regionreform/nye-fylker/id2548426/)), которые в свою очередь делятся на 356 **kommuner**/коммун (муниципалитетов). Список коммун, и к какой fylke они относятся, можно найти в [:octicons-link-external-16: Store Norske Leksikon](https://snl.no/kommuner_i_Norge). *Kommune является самым основным административным *уровнем в Норвегии.                                                                                                             	|                                                                                               	|
-| (asyl)mottak                       	| **Пункт временного размещение беженцев**. Mottak могут быть разных типов. Например, с стооловой, или без, или временные или обычные. Временные mottak были созданы в связи с повышенным потоком беженцев из Украины, на базе отелей, домов престарелых и иных типов жилья).                                                                                                                                                                                                                                                                 	| [Описание типов mottak (udi.no)](https://www.udi.no/ord-og-begreper/asylmottak-ulike-typer/). 	|
+| (asyl)mottak                       	| **Пункт временного размещение беженцев**. Mottak могут быть разных типов. Например, с стооловой, или без, или временные или обычные. Временные mottak были созданы в связи с повышенным потоком беженцев из Украины, на базе отелей, домов престарелых и иных типов жилья).                                                                                                                                                                                                                                                                 	| [Описание типов mottak (UDI)](https://www.udi.no/ord-og-begreper/asylmottak-ulike-typer/). 	|
 | Asylsøkerbevis                     	| **Карта просителя убежища ("Желтая карта")**. Когда вы подаете заявление о защите в Норвегии, вы получаете карту, подтверждающую, что вы являетесь просителем защиты, так называемую "Желтую карту". Она документирует ваше право нахождения в Норвегии на время рассмотрения заявления о защите. [:octicons-link-external-16: Пример карты (фото)](https://www.udi.no/ord-og-begreper/asylsokerbevis/)                                                                                                                                                                  	| [Словарь UDI: Asylsøkerbevis](https://www.udi.no/ord-og-begreper/asylsokerbevis/)             	|
 | Oppholdskort                       	| **Карта резидента Норвегии ("синяя карта")**. Пластиковая карта которая является доказательством того, что у вас есть вид на жительство в Норвегии. Не является удостоверением личности, а идет в связке с загранпаспортом как дополнение к нему. Если вы собираетесь выехать из Норвегии, у вас должен быть на руках [:octicons-link-external-16: действующий загранпаспорт и карта резидента](https://www.udi.no/viktige-meldinger/har-du-planlagt-a-reise-til-utlandet/). [:octicons-link-external-16: Пример карты oppholdskort (фото)](https://www.udi.no/globalassets/global/bilder/aktuelt/asylsokerbevis-ny-type.png). 	| [Словарь UDI: Oppholdskort](https://www.udi.no/ord-og-begreper/oppholdskort/)                 	|
 | UDI (Utlendingsdirektoratet)                  	| **Директорат по делам иностранцев** (UDI) является государственной организацией, в задачи которой входят вопросы миграции в Норвегию, в том числе рассмотрение заявлений от иностранцев, которые хотят посетить или жить в Норвегии, рассматривают заявления на получение (коллективной) защиты и других разрешений на проживания. Отвечает также за временное размещение беженцев.                                                                                                                                                                                                          	| [https://udi.no/](https://udi.no/)                                  	|
 | IMDI (Integrerings- og mangfoldsdirektoratet) 	| **Директорат по вопросам интеграции и культурно-этнического разнообразия** (IMDi) является государственным организацией, которая отвечает за реализацию государственной политики интеграции. IMDI отвечает в том числе за распределение беженцев в коммуны, после того как беженцы получили коллективную защиту.                                                                                                                                                                                                                                                                                                               	| [https://www.imdi.no/](https://www.imdi.no/)                        	|
 | Politiet                                      	| **Национальная полиция Норвегии** (Politiet). Среди других функций в отношении иностранцев полиция Норвегии выполняет функции, связанные с проживанием иностранцев в стране: регистрация искателей убежища, контроль документов, удостоверяющих личность, принятие и рассмотрение заявлений.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                	| [https://www.politiet.no/](https://www.politiet.no/)                	|
 
-# 1. Кратко о коллективной защите { #om-kollektiv-beskyttelse }
+# О коллективной защите { #om-kollektiv-beskyttelse }
 
 **Что такое коллективная защита?**
 
@@ -49,156 +49,166 @@ hide:
 **См. также:** [:octicons-milestone-24: Получения постоянного вида на жительство в Норвегии]( https://nyinorge.github.io/permanent-oppholdstillatelse/).
 
 
-> :material-book-outline: Источники: 
+> :material-book-outline: **Источники**
 >
-> - [Закон об иммиграции. Коллективная защита (Utlendingsloven § 34)](https://lovdata.no/dokument/NL/lov/2008-05-15-35/KAPITTEL_4#%C2%A734)
-> - [Положение об иммиграции. Временная коллективная защита для перемещенных лиц из Украины (Utlendingsforskriften § 7-5a)](https://lovdata.no/forskrift/2009-10-15-1286/§7-5a)
-> - [Инструкция UDI 2022-004. Временная коллективная защита для перемещенных лиц из Украины (udiregelverk.no)](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-004/#1.1._Hva_handler_retningslinjen_)
-> - [Особи, які можуть отримати колективний захист (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164)
-> - [Бажаєте подати заявкy на отримання захисту (udi.no)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/)
-> - [Права та обов'язки, після того як ви отримали колективний захист (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30166)
-> - [Термін дії дозволу на колективний захист (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30167)
+> Законодательство 
+> 
+> - [Utlendingsloven §34](https://lovdata.no/lov/2008-05-15-35/§34)
+> - [Utlendingsforskriften § 7-5a](https://lovdata.no/forskrift/2009-10-15-1286/§7-5a)
+> - [UDI 2022-004 Midlertidig kollektiv beskyttelse til personer fordrevet fra Ukraina](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-004/)
+>
+> Официальные сайты Норвегии
+> 
+> - [Бажаєте подати заявкy на отримання захисту (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/)
 
+# На кого распространаяется коллективная защита? { #hvem-kan-fa-kollektiv-beskyttelse }
 
-# 2. Кто может получить коллективную защиту? { #hvem-kan-fa-kollektiv-beskyttelse }
-Лица, которые могут получить коллективную защиту в Норвегии можно посмотреть на сайте [:octicons-link-external-16: Директоратата по делам иностранцев (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164).
+[:octicons-link-external-16: На кого распространаяется коллективная защита? (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164)
 
-**См. также**: [:octicons-link-external-16: На кого **не** распространяется коллективная защита?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30183)
+[:octicons-link-external-16: На кого **не** распространяется коллективная защита? (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30183)
 
-# 2.1 Несовершеннолетние просители коллективной защиты { #enslige-mindrearige-asylsokere  }
-??? abstract "(Нажмите здесь, что бы открыть ответ) "
-    Если вам еще не исполнилось 18 лет, и вы прибыли в Норвегию без родителей или иных опекунов с целью получить кколлективную защиту, то вы являетесь *несопровождаемым несовершеннолетним просителем убежища*. 
+Если на вас не распространяется коллективная защита, то ваше заявление будет [рассматриваться индивидуально в соответствии с обычной процедурой международной защиты](/kollektiv-beskyttelse/#individuell-beskyttelse).
 
-    Критерии коллективной защиты (см. вопрос выше) относится как к взрослым, так и к несопровождаемым несовершеннолетним. Большинство информации здесь, и в официальных источниках относится как к взрослым, так и к несопровождаемым несовершеннолетним. Это означает, что несовершеннолетние дети без родителей могут получить коллективную защиту в Норвегии.
-
-    По норвежскому законодательству, в Норвегии каждый несопровождаемый проситель защиты и беженцы в возрасте до 18 лет получает *представителя* (временного опекуна). Представитель является юридическим лицом, заменяющим родителей. Главная задача представителя, это отслеживать, что собсоблюдаются права несовершеннолетнего. В задачи представителя, в том числе входит:
-
-    - Связь с властями Норвегии
-    - Диалог с теми, кто осуществляющими опеку, и любые последующие действия со стороны других организаций, таких как служба защиты детей, полиция и т.д.
-    - Обеспечить несовершеннолетнему надлежащий уход, медицинское обслуживание и школьное образование.
-    - Обеспечить что все принимаемые решения соответствуют интересам ребенка, и в случае необходимости обжаловать решения от имени ребенка
-
-    Представитель имеет право принимать за несовершеннолетнего решения, так же как бы это было, если бы несовершеннолетний был бы в Норвегии вместе со своими родителями. 
-
-    **Размещение в временное жилье**
-
-    Детям и молодым людям в возрасте от 15 до 18 лет, прибывшим в Норвегию и ищущим защиты, предлагается размещение в муттак для несопровождаемых несовершеннолетних. Детям в возрасте до 15 лет предлагается место в центре по уходу за несовершеннолетними, находящемся в ведении *Норвежского агентства по делам детей, молодежи и семьи* (Bufetat).
-
-    Некоторые несопровождаемые несовершеннолетние прибывают в Норвегию вместе с другими взрослыми сопровождающими лицами. Первоначально им будет предложена возможность разместиться в муттак вместе с сопровождающими лицами.
-
-    Bufetat занимается расселением несопровождаемых несовершеннолетних беженцев в возрасте до 15 лет, прибывших в Норвегию самостоятельно. IMDi отвечает за расселение детей и молодых людей старше 15 лет. Именно IMDi подыскивает подходящею коммуну для несопровождаемых несовершеннолетних, прибывших со взрослым сопровождающим.
-
-    Несопровождаемые несовершеннолетние, проживающие в центре по уходу за несовершеннолетними или в муттак, автоматически получают коммуну для поселения после получения вида на жительство (коллективной защиты) и прохождения интервью.
-
-    > :material-book-outline: Источники: 
-    > 
-    > - [Неповнолітні шукачі притулку з України без супроводу батьків (udi.no)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/unaccompanied-minor-asylum-seekers-from-ukraine/)
-    > - [Flyktninger og asylsøkere: Enslige mindreårige asylsøkere (statsforvalteren.no)](https://www.statsforvalteren.no/nb/portal/Folk-og-samfunn/flyktninger-og-asylsokere/)
-    > - [Din rolle som representant (statsforvalteren.no)](https://www.statsforvalteren.no/nb/oslo-og-viken/vergemal/vergemal-for-barn/representantordningen/din-rolle-som-representant/)
-    > - [Representatives for unaccompanied minor asylum seekers (udi.no)](https://udi.no/word-definitions/representatives-for-unaccompanied-minor-asylum-seekers/)
-    > - [Bosetting av enslige mindreårige flyktninger (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-flyktninger/)
-
-# 3. У меня есть коллективная защита или разрешение на проживание в другой европейской стране { #opphold-i-et-annet-land }
-- Убедитесь, что вы подпадаете под критерии получения временной защиты (см. пункт выше).
+# У меня есть коллективная защита или разрешение на проживание в другой европейской стране { #opphold-i-et-annet-land }
+- Убедитесь, что вы подпадаете под [:octicons-milestone-24: критерии коллективной защиты](kollektiv-beskyttelse.md/#hvem-kan-fa-kollektiv-beskyttelse).
 - Лица, которые выехали из Украины на работу или учебу в другую страну на момент 24.02.2022, кроме Норвегии, не подпадают под коллективную защиту,  [:octicons-link-external-16: даже если прибывание в другой стране было меньше чем 90 дней до 24 февраля 2022](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-004/#4.4._Hvem_omfattes_av_midlertidi). 
 - Если Вы подаете заявление о получении защиты в Норвегии и относитесь к числу тех, кто может получить коллективную защиту, то UDI рассмотрит ваше заявление в Норвегии.
 - Если UDI выдает вид на жительство в Норвегии в соответствии с законом о иммиграции (Utlendingsloven § 34), UDI сообщает об этом стране, в которой было выдано разрешение на проживание (по коллективной защите), чтобы это разрешение там могло быть отозвано.
 
-> :material-book-outline: Источники: 
+> :material-book-outline: **Источники** 
+>
+> Законодательство 
+>  
+> - [UDI 2022-004 Midlertidig kollektiv beskyttelse til personer fordrevet fra Ukraina](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-004/)
+>
+> Официальные сайты Норвегии
 > 
-> - [Инструкция UDI 2022-004. Временная коллективная защита для перемещенных лиц из Украины (udiregelverk.no)](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-004/)
-> - [Що станеться якщо я хочу приїхати до Норвегії, але вже подав заявку про отримання захисту або маю дозвіл на проживання в іншій європейській країні? (udi.no)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/travel-to-norway/#link-30069)
+> - [Що станеться якщо я хочу приїхати до Норвегії, але вже подав заявку про отримання захисту або маю дозвіл на проживання в іншій європейській країні? (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/travel-to-norway/#link-30069)
 
-# 4. Могу ли я подать ходатайство о получении коллективной защиты, не находясь в Норвегии? { #hvor-kan-jeg-be-om-beskyttelse }
-Чтобы подать заявление о предоставлении защиты, вы **должны** находиться в Норвегии или на границе с Норвегией. 
 
-> :material-book-outline: Источники: 
+# Несопровождаемые несовершеннолетние просители убежища (коллективной защиты) { #enslige-mindrearige-asylsokere  }
+
+*Несопровождаемые несовершеннолетние просители убежища* (коллективной защиты), это лица, которым не исполнилось 18 лет и прибывшим в Норвегию без родителей.
+
+[:octicons-milestone-24: Критерии коллективной защиты](kollektiv-beskyttelse.md/#hvem-kan-fa-kollektiv-beskyttelse) относится как к взрослым, так и к несопровождаемым несовершеннолетним. Большинство информации здесь, и в официальных источниках относится как к взрослым, так и к несопровождаемым несовершеннолетним. Это означает, что несовершеннолетние без родителей могут получить коллективную защиту в Норвегии.
+
+**Норвежский представитель**
+
+По норвежскому законодательству, в Норвегии каждый несопровождаемый проситель защиты и беженцы в возрасте до 18 лет получает *представителя* (временного опекуна). Представитель является юридическим лицом, заменяющим родителей. Главная задача представителя, это отслеживать, что собсоблюдаются права несовершеннолетнего. В задачи представителя, в том числе входит:
+
+- Связь с властями Норвегии
+- Диалог с теми, кто осуществляющими опеку, и любые последующие действия со стороны других организаций, таких как служба защиты детей, полиция и т.д.
+- Обеспечить несовершеннолетнему надлежащий уход, медицинское обслуживание и школьное образование.
+- Обеспечить что все принимаемые решения соответствуют интересам ребенка, и в случае необходимости обжаловать решения от имени ребенка
+
+Представитель имеет право принимать за несовершеннолетнего решения, так же как бы это было, если бы несовершеннолетний был бы в Норвегии вместе со своими родителями. 
+
+**Временное размещение**
+
+Детям и молодым людям в возрасте от 15 до 18 лет, прибывшим в Норвегию и ищущим защиты, предлагается размещение в муттак для несопровождаемых несовершеннолетних. Детям в возрасте до 15 лет предлагается место в центре по уходу за несовершеннолетними, находящемся в ведении *Норвежского агентства по делам детей, молодежи и семьи* (Bufetat).
+
+Bufetat занимается расселением несопровождаемых несовершеннолетних беженцев в возрасте до 15 лет, прибывших в Норвегию самостоятельно. IMDi отвечает за расселение детей и молодых людей старше 15 лет. Именно IMDi подыскивает подходящею коммуну для несопровождаемых несовершеннолетних, прибывших со взрослым сопровождающим.
+
+Несопровождаемые несовершеннолетние, проживающие в центре по уходу за несовершеннолетними или в муттак, автоматически получают коммуну для поселения после получения вида на жительство (коллективной защиты) и прохождения интервью.
+
+> :material-book-outline: **Источники**
+>
+> Официальные сайты Норвегии
 > 
-> - [Чи можу я, як громадянин України, отримати захист (притулок) у Норвегії? (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30021)
-> - [Прибуття до Норвегії (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/)
+> - [Неповнолітні шукачі притулку з України без супроводу батьків (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/unaccompanied-minor-asylum-seekers-from-ukraine/)
+> - [Representanter for enslige mindreårige asylsøkere (UDI)](https://udi.no/word-definitions/representatives-for-unaccompanied-minor-asylum-seekers/)
+> - [Flyktninger og asylsøkere: Enslige mindreårige asylsøkere (Statsforvalteren)](https://www.statsforvalteren.no/nb/portal/Folk-og-samfunn/flyktninger-og-asylsokere/)
+> - [Informasjon til deg som har fått oppnevnt representant (Statsforvalteren)](https://www.statsforvalteren.no/nb/oslo-og-viken/vergemal/vergemal-for-barn/representantordningen/informasjon-til-deg-som-har-fatt-oppnevnt-representant/)
+> - [Bosetting av enslige mindreårige flyktninger (IMDi)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-fyktninger/)
 
-# 4.1 Я гражданин Украины. Как я могу легально въехать в Норвегию? { #ankomst-til-norge }
+# Я гражданин Украины. Как я могу легально въехать в Норвегию? { #ankomst-til-norge }
 Если у Вас есть биометрический паспорт, Вы можете поехать в Норвегию без визы. Если у Вас нет биометрического паспорта или документов, удостоверяющих личность, Вы можете найти информацию о легальном въезде в Норвегию на сайте Директората по делам иностранцев (UDI). 
 
 [Ознакомьтесь с правилами легального въезда в Норвегию на сайте Директората по делам иностранцев](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/travel-to-norway/#link-30130).
 
-# 5. **Как** подать ходатайство о получении коллективной защиты? { #registrering-1 }
+# Подача ходатайства о получении коллективной защиты { #registrering }
 
-По приезду в Норвегию обратитесь к *Полиции* (Politi), или напрямую в места регистрации беженцев (см. вопрос ниже). 
+## Могу ли я подать ходатайство о получении коллективной защиты, не находясь в Норвегии?
 
-Волонтеры не занимаються вопросами оформление коллективной защиты. При приезде в Норвегию вы не встретите волонтеров.
-  
-Пункты Полиции находяться в аэропорту, а так же в населенных пунктах. Если не находите полицию рядом с вами, постарайтесь найти кого то (таможенника - Toll/Customs, сотрудника аэропорта или простых людей) к которым можно обратиться, что бы вам могли помочь связаться с полицией. 
+Чтобы подать заявление о предоставлении защиты, вы **должны** находиться в Норвегии или на границе с Норвегией. 
+
+## Где можно подать ходатайство о получении коллективной защиты?
+
+Как правило, вы должны зарегистрироваться в Национальном центре прибытия и регистрации беженцев (Nasjonalt ankomstsenter, **Råde**), :material-map-marker: [Mosseveien 58, 1640 Råde](https://www.google.com/maps/dir//Nasjonalt+ankomstsenter+R%C3%A5de,+Mosseveien+58,+1640+R%C3%A5de/@59.3576031,10.770232,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4646ab1b1efd56eb:0x39588a797b28d652!2m2!1d10.8408566!2d59.3578675). 
+
+Беженцы из Украины, ходатайствующие о защите, также могут зарегистрироваться в пяти других местах в Норвегии (в региональных управлениях Полиции): **Kirkenes**, **Trondheim**, **Bergen**, **Jæren** (возле Stavanger/Sandnes) и **Torp**.
+
+!!! warning "Возможности регистрации вне Национальном центре прибытия и регистрации беженцев **ограничены**."
+    Возможности регистрации вне Национальном центре прибытия и регистрации беженцев **ограничены**. В случае, если управление, в которое Вы приехали, не имеет возможность зарегистрировать Вас, Вас отвезут в Национальный центр прибытия и регистрации беженцев (Nasjonalt ankomstsenter, Råde). 
+
+
+Волонтеры не занимаются вопросами оформления ходатайства о получении коллективной защиты. При приезде в Норвегию вы не встретите волонтеров. Полиция Норвегии занимается вопросом оформления ходатайства о получении коллективной защиты.
+
+По приезду в Норвегию вы можете либо обратиться в Полицию (**Politi**) для помощи в транспортировке вас к месту временного размещения и регистрации, либо поехать напрямую в места временного размещения, адреса которых указаны ниже. 
+
+## Обращение в Полицию
+
+Пункты полиции находиться в том числе в аэропорту, а также в населенных пунктах. Вы можете найти любого гражданина, или сотрудника, и обратиться с просьбой помочь вам связаться с полицией, если вы не можете найти полицию в том месте, куда вы прибыли
 
 Если вы знаете *английский*, можно так же позвонить по телефону :fontawesome-solid-phone-volume: **(+47) 02800** или :fontawesome-solid-phone-volume: **112** для связи с Полицией.
 
 Полиции достаточно сообщить что вы беженец из Украины, что вам негде остановится и вы хотите подать ходатайство на получение коллективной защиты. Далее сотрудник полиции расскажет вам что делать далее и как доехать до пункта регистрации / временного размещения.
 
-
 !!! tip "Используйте переводчик"
     Если вы не знаете английский, переведите текст через [:octicons-link-external-16: Google Переводчик](https://translate.google.com/?hl=uk) или [:octicons-link-external-16: DeepL переводчик](https://www.deepl.com/translator) и покажите перевод тому человеку, с которым вы разговариваете.
 
-
+    
 !!! note "Вопросы и ответы на сайте Полиции Норвегии"
     [:octicons-link-external-16: Как происходит регистрация и что делать после прохождения регистрации (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/russisk/sporsmal-og-svar/)
 
 
-> :material-book-outline: Источники: 
-> 
-> - [Я громадянин України і хочу подати заявку на отримання захисту (притулку). Як мені діяти? (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/#link-32062)
-> - [Как происходит регистрация и что делать после прохождения регистрации (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
-
-# 6. **Где** подать ходатайство о получении коллективной защиты? { #registrering-2 }
-
-- Как правило, будучи просителем убежища, Вы должны зарегистрироваться в Национальном центре прибытия и регистрации беженцев (Nasjonalt ankomstsenter, **Råde**), :material-map-marker: [Mosseveien 58, 1640 Råde](https://www.google.com/maps/dir//Nasjonalt+ankomstsenter+R%C3%A5de,+Mosseveien+58,+1640+R%C3%A5de/@59.3576031,10.770232,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4646ab1b1efd56eb:0x39588a797b28d652!2m2!1d10.8408566!2d59.3578675). 
-- Беженцы из Украины, ходатайствующие о защите, также могут зарегистрироваться в пяти других местах в Норвегии (в региональных управлениях Полиции): **Kirkenes**, **Trondheim**, **Bergen**, **Jæren** (возле Stavanger/Sandnes) и **Torp**.
-
-!!! warning "Возможности регистрации вне Национальном центре прибытия и регистрации беженцев **ограничены**."
-    Возможности регистрации вне Национальном центре прибытия и регистрации беженцев **ограничены**. В случае, если управление, в которое Вы приехали, не имеет возможность зарегистрировать Вас, Вас отвезут в Национальный центр прибытия и регистрации беженцев (Nasjonalt ankomstsenter, Råde). 
-
 ## **Для тех, кто прибывает в город Осло или в аэропорт Gardemoen** { #oslo }
 
-- Если вы приехали в Осло **автобусом** в автобусный терминал Осло (Oslo bussterminal), то вы можете обратиться в Полицейский участок:
-     - **Politi, Seksjon for utlendingsforvaltning** по адресу :material-map-marker: **Schweigaards gate 15b, 0191 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Schweigaards+gate+15b,+0191+Oslo/@59.9106758,10.7579482,17.58z/data=!4m6!3m5!1s0x46416ef552ea7ffd:0x118b6b258fba179b!8m2!3d59.9106037!4d10.7595887!16s%2Fg%2F11c43txphv?entry=ttu). Участок находиться рядом с автобусным терминалом. Участок открыт drop-in :material-clock: 09:00-11:30, общее время работа :material-clock: 09:00-15:00 понедельник, вторник, четверг и пятница.
-     - **Grønland politistasjon** по адресу :material-map-marker: **Grønlandsleiret 44, 0190 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Gr%C3%B8nlandsleiret+44,+0190+Oslo/@59.9107932,10.7701928,17z/data=!4m6!3m5!1s0x46416e58a5a302f9:0x7c7e8523e2fc289!8m2!3d59.9107368!4d10.7704374!16s%2Fg%2F11bw3fcsvp?entry=ttu). Участок открыт с :material-clock: 08:00-23:00 ежедневно, включая выходные. Вам нужен "Politivakt" внутри участка.
+- Если вы приехали в Осло автобусом в **автобусный терминал Осло** (Oslo bussterminal), то вы можете обратиться в cледующие полицейские участки в городе Осло:
+     - *Politi, Seksjon for utlendingsforvaltning* по адресу :material-map-marker: **Schweigaards gate 15b, 0191 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Schweigaards+gate+15b,+0191+Oslo/@59.9106758,10.7579482,17.58z/data=!4m6!3m5!1s0x46416ef552ea7ffd:0x118b6b258fba179b!8m2!3d59.9106037!4d10.7595887!16s%2Fg%2F11c43txphv?entry=ttu). Участок находиться рядом с автобусным терминалом. Участок открыт drop-in :material-clock: 09:00-11:30, общее время работа :material-clock: 09:00-15:00 понедельник, вторник, четверг и пятница.
+     - *Grønland politistasjon* по адресу :material-map-marker: **Grønlandsleiret 44, 0190 Oslo** [(:octicons-link-external-16: карта)](https://www.google.com/maps/place/Gr%C3%B8nlandsleiret+44,+0190+Oslo/@59.9107932,10.7701928,17z/data=!4m6!3m5!1s0x46416e58a5a302f9:0x7c7e8523e2fc289!8m2!3d59.9107368!4d10.7704374!16s%2Fg%2F11bw3fcsvp?entry=ttu). Участок открыт с :material-clock: 08:00-23:00 ежедневно, включая выходные. Вам нужен "Politivakt" внутри участка.
 
-- В аэропорту **Gardemoen** полицию можно найти в зоне прибытия, см. номер 18 на [:octicons-link-external-16: карте зоны прибытия](https://avinor.no/contentassets/336912d007744165918e0dffd7f1ec8c/ankomst-01.06.23.pdf).
+- В **аэропорту Gardemoen** полицию можно найти в зоне прибытия, см. номер 18 на [:octicons-link-external-16: карте зоны прибытия](https://avinor.no/contentassets/336912d007744165918e0dffd7f1ec8c/ankomst-01.06.23.pdf).
 
-- Если вы едете на машине, то вы можете ехать напрямую в Национальный центр прибытия и регистрации беженцев (Nasjonalt ankomstsenter, **Råde**). 
+- Если вы едете на машине, то вы можете ехать напрямую в Национальный центр прибытия и регистрации беженцев (Nasjonalt ankomstsenter, Råde). 
 
-
-## Адреса мест регистрации (куда можно приехать напрямую) { #adresse }
+## Адреса мест временного размещения и регистрации (куда можно приехать напрямую) { #steder }
 
 - **Национальный центр прибытия и регистрации беженцев (Nasjonalt ankomstsenter, Råde)** 
 
     :material-map-marker: [Mosseveien 58, 1640 Råde](https://www.google.com/maps/dir//Nasjonalt+ankomstsenter+R%C3%A5de,+Mosseveien+58,+1640+R%C3%A5de/@59.3576031,10.770232,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4646ab1b1efd56eb:0x39588a797b28d652!2m2!1d10.8408566!2d59.3578675)
     
-    Råde находится порядка 70 км от города Осло (115 км от аэропорта Gardemoen). Ближайший пограничный переход является E6 Svinesund.
+    Råde находится порядка 70 км от города Осло (115 км от аэропорта Gardemoen). Ближайший пограничный переход является E6 Svinesund. Центр работает круглосуточно. 
 
 
 - **Bergen** 
     :material-map-marker: [Kokstadflaten 2, 5257 Kokstad](https://www.google.com/maps/dir//Scandic+Kokstad,+Kokstadflaten+2,+5257+Kokstad/@60.2894335,5.2289895,13.13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x463cf09e68f426c1:0x2c19616996c4fd5a!2m2!1d5.2586071!2d60.2900563)
 
-    Отель *Scandic Kokstad*. Обращайтесь напрямую в отель по прибытию. Выходите из аэропорта, идете влево, спускайетесь вниз, садитесь на скоростной трамвай номер 1 до остановки     Birkelandsskiftet, оттуда идите до отеля Scandic Kokstad. Он принимает круглосуточно. [Расписание скоростного травмая](https://reise.skyss.no/stops/trip/SKY:ServiceJourney:1-174434-16264513/route-direction/SKY:Line:1~inbound/stop/NSR:Quay:51856)
+    Отель *Scandic Kokstad*. Обращайтесь напрямую в отель по прибытию. При выходите из аэропорта, идите влево, спускаетесь вниз, садитесь на скоростной трамвай номер 1 до остановки  Birkelandsskiftet, оттуда идите до отеля Scandic Kokstad. Отель работает круглосуточно. [:octicons-link-external-16: Расписание скоростного травмая](https://reise.skyss.no/stops/trip/SKY:ServiceJourney:1-174434-16264513/route-direction/SKY:Line:1~inbound/stop/NSR:Quay:51856).
 
 - **Sandnes (рядом с Stavanger)** 
   :material-map-marker: [Roald Amundsens gate 115, 4307 Sandnes](https://www.google.com/maps/dir//Roald+Amundsens+gate+115,+4307+Sandnes/@58.8703355,5.671128,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x463a36625477eb9b:0x673c135f2eee9786!2m2!1d5.741339!2d58.8703545)
     
-    Отель *Thon Partner Hotel Sandnes*. Обращайтесь в Полицию по прибытию в Stavanger, либо обращайтесь напрямую в отель по прибытию.
+    Отель *Thon Partner Hotel Sandnes*. Обращайтесь в Полицию по прибытию в Stavanger, либо обращайтесь напрямую в отель по прибытию. Отель работает круглосуточно.
 
 - **Trondheim**: :material-map-marker: [Kongens gate 40, 7012 Trondheim](https://www.google.com/maps/place/Pensjonat+Jarlen/@63.4307117,10.3892029,17z/data=!3m1!4b1!4m9!3m8!1s0x466d3185296b44a3:0xc8ef2d48119e973f!5m2!4m1!1i2!8m2!3d63.4307117!4d10.3892029!16s%2Fg%2F1ths7zvs?entry=ttu)
 
-    _Pensjonat Jarlen_ c 25.08.23. Обращайтесь в Полицию по прибытию в Trondheim, либо обращайтесь напрямую в Pensjonat Jarlen по прибытию.
+    _Pensjonat Jarlen_ c 25.08.23. Обращайтесь в Полицию по прибытию в Trondheim, либо обращайтесь напрямую в Pensjonat Jarlen по прибытию. Работает круглосуточно.
 
-- **Kirkenes**: Обратитесь в Полицию по прибытию.
+- **Kirkenes**: Обратитесь в Полицию.
+- **Torp**: Обратитесь в Полицию в аэропорту.
 
-
-> :material-book-outline: Источники: 
+> :material-book-outline: **Источники**
 > 
-> - [Прибуття до Норвегії (udi.no)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/)
-> - [Обращение за коллективной защитой гражданам Украины (politiet.no)](https://www.politiet.no/en/english/residence-permits-and-protection/the-war-in-ukraine/applying-for-collective-protection-as-a-ukrainian-national/)
+> Официальные сайты Норвегии
+> 
+> - [Запитання та відповіді про захист (притулок) та проживання у притулку для біженців в Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers)
+> - [Прибуття до Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/)
+> - [Питання та відповіді. Як відбувається реєстрація, та що робити після проходження реєстрації (Politiet)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
+> - [Applying for collective protection as a Ukrainian national (Politiet)](https://www.politiet.no/en/english/residence-permits-and-protection/the-war-in-ukraine/applying-for-collective-protection-as-a-ukrainian-national/)
 
-# 7. У меня еще есть вопросы { #sporsmål }
+
+# У меня еще есть вопросы { #sporsmål }
 
 !!! info "**Вам необходимо связаться с Директоратом по делам иностранцев (UDI)**?"
 
@@ -212,12 +222,12 @@ hide:
 
     Вы можете позвонить на горячую линию по телефону **(+47) 22 13 62 45**. Горячая линия работает в понедельник, вторник и среду с 16:00 до 17:00, начиная с 4 июля 2022 года.
 
-# 8. В чем разница коллективной защиты и индивидуальной защиты (убежище/asylum)? { #individuell-beskyttelse }
+# В чем разница коллективной защиты и индивидуальной защиты (убежище/asylum)? { #individuell-beskyttelse }
 
 !!! warning "В этом ответе понятия "индивидуальная защита", "защита" и "убежище" равнозначны. Текст ниже именно о **индивидуальной** защите (где не указаного иного)"
 
 ## Основания для получение индивидуальной защиты 
-По текущим правилам, согласно закону о иммиграции (Utlendingsloven § 28):
+По текущим правилам, согласно закону (Utlendingsloven § 28):
 
 !!! note ""
     _Лицо имеет право на защиту (убежище), если он/она:_
@@ -272,16 +282,22 @@ hide:
 
 Для получение больше информации, вы можете так же изучить источники ниже. 
 
-> :material-book-outline: Источники: 
+> :material-book-outline: **Источники** 
+>
+> Законодательство
 > 
-> - [Відеозустріч щодо індивідуального захисту (udi.no)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/orientation-meeting-about-individual-protection/)
-> - [Beskyttelse (udi.no)](https://www.udi.no/ord-og-begreper/beskyttelse/)
-> - [Dublin-samarbeidet (udi.no)](https://www.udi.no/ord-og-begreper/dublin-samarbeidet/)
-> - [Infformasjon til søkere som er i Dublin-prosedyre (udi.no)](https://www.udi.no/viktige-meldinger/informasjon-til-deg-som-er-i-dublin-prosedyre/)
-> - [Utlendingsloven § 28. Oppholdstillatelse for utlendinger som trenger beskyttelse (asyl)](https://lovdata.no/dokument/NL/lov/2008-05-15-35/KAPITTEL_4#%C2%A734)
->- [Инструкция UDI 2022-004. Временная коллективная защита для перемещенных лиц из Украины](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-004/#10.5.10.5._Saksgang_der_s%C3%B8keren_ikk)
+> - [Utlendingsloven § 28](https://lovdata.no/lov/2008-05-15-35/§28)
+> - [UDI 2022-004 Midlertidig kollektiv beskyttelse til personer fordrevet fra Ukraina](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-004/#10.5.10.5._Saksgang_der_s%C3%B8keren_ikk)
+> - [UDI 2014-001 Behandling av saker omfattet av Dublinforordningen](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2014-001/)
+> 
+> Официальные сайты Норвегии
+> 
+> - [Відеозустріч щодо індивідуального захисту (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/orientation-meeting-about-individual-protection/)
+> - [Beskyttelse (UDI)](https://www.udi.no/ord-og-begreper/beskyttelse/)
+> - [Dublin-samarbeidet (UDI)](https://www.udi.no/ord-og-begreper/dublin-samarbeidet/)
+> - [Infformasjon til søkere som er i Dublin-prosedyre (UDI)](https://www.udi.no/viktige-meldinger/informasjon-til-deg-som-er-i-dublin-prosedyre/)
 >- [Dublin-saker - Utlendingsnemda (UNE)](https://www.une.no/sakstyper/dublinsaker/)
->- [UDI 2014-001 Behandling av saker omfattet av Dublinforordningen](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2014-001/)
+
 
 
 ---
