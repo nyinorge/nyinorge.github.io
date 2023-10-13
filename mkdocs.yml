@@ -25,11 +25,12 @@ nav:
   - Въезд с домашним питомцем в Норвегию: 'kjaeledyr.md'
   - Водителям: 'forerkort-og-bil.md'
   - Экономическая поддержка: 'stote.md'
-  - Жилье: 'bolig.md'
+  - Жилье и временное размещение: 'bolig.md'
   - Таможенные правила: 'toll.md'
   - Статистика: 'statistikk.md'
   - Про работу в Норвегии: 'jobb.md'
   - Медицинская помощь: 'helsehjelp.md'
+  - Получения постоянного вида на жительство: 'permanent-oppholdstillatelse.md'
 
 
 plugins:
@@ -43,7 +44,7 @@ plugins:
         'collective-protection.md': 'kollektiv-beskyttelse.md'
         'introduction-programme.md': 'introduksjonsprogram.md'
         'animals.md': 'kjaeledyr.md'
-        'other.md': 'annet.md'
+        'other.md': 'index.md'
         'work.md': 'jobb.md'
         'stats.md': 'statistikk.md'
         'housing.md': 'bolig.md'

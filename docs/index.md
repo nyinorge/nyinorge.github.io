@@ -7,6 +7,10 @@ hide:
 # **Волонтерский проект "Ny i Norge"** :flag_ua: :flag_no: 
 Кратко о важном, для тех, кто собирается приехать в Норвегию.
 
+!!! warning ""
+
+    Норвегия **ПРИНИМАЕТ** беженцев из Украины, ищущих коллективную защиту!
+
 # Часто задаваемые вопросы { #faq }
 
 ## :flag_no: [Ласкаво просимо до Норвегії (інформація про норвезьке суспільство)](https://www.imdi.no/globalassets/illustrasjoner/ukraina/information-about-norwegian-society-2022---ukrainsk0822.pdf)
@@ -20,7 +24,7 @@ hide:
 
 ## :books: [Интродукционная (ознакомительная) программа](introduksjonsprogram.md)
 
-## :house: [Жилье](bolig.md)
+## :house: [Жилье и временное размещение](bolig.md)
 
 ## :material-hand-coin: [Экономическая поддержка](stotte.md)
 
@@ -35,3 +39,5 @@ hide:
 ## :material-passport: [Получения постоянного вида на жительство в Норвегии](permanent-oppholdstillatelse.md)
 
 ## :fontawesome-solid-chart-pie: [Статистика](statistikk.md)
+
+## :flag_ua: [Посольство України в Норвегії](https://norway.mfa.gov.ua/)
