@@ -28,6 +28,10 @@ hide:
 
 > :material-book-outline: **Источники**
 >
+> Законодательство
+>
+> - [Integreringslovens § 23](https://lovdata.no/lov/2020-11-06-127/§23)
+> 
 > Официальные сайты Норвегии
 > 
 > - [Juridisk veileder til integreringslovens § 23](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
