@@ -6,7 +6,7 @@ hide:
 ---
 
 !!! updated ""
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **11.10.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на {{ git_revision_date_localized }}
 
 ## Дает ли коллективная защита право на получения постоянного вида на жительство? { #1 }
 
@@ -77,3 +77,8 @@ hide:
 > Официальные сайты Норвегии
 > 
 > - [Calculating the residence period for permanent residence permits (UDI)](https://udi.no/en/word-definitions/calculating-the-residence-period-for-permanent-residence-permits/)
+>
+
+---
+
+[Вернуться к оглавлению](index.md){ .md-button .md-button--primary }

@@ -23,5 +23,6 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install pymdown-extensions
       - run: pip install mkdocs-redirects
+      - run: pip3 install mkdocs-git-revision-date-localized-plugin
       - run: pip3 install mkdocs-enumerate-headings-plugin
       - run: mkdocs gh-deploy --force

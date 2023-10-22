@@ -5,24 +5,28 @@ hide:
 ---
 
 !!! updated ""
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **11.10.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на {{ git_revision_date_localized }}
 
-[TOC]
+!!! question "Содержание"
+    [TOC]
 
 # Использование автомобиля с иностранными номерами { #bil }
 
 Если вы не проживали в Норвегии ранее, и не были зарегистрированы в качестве резидента страны более 365 дней в течение последних двух лет до получения коллективной защиты, вы можете использовать транспортное средство с иностранными номерами _в течение **2 лет** с момента предоставления вам разрешения на проживание_ без уплаты пошлин, связанных с ввозом и регистрацией транспортного средства в Норвегию. 
-  
+
+Для использования транспортного средства не нужно подавать заявление или обращаться в налоговую Норвегии (Skatteetaten), если срок использования в Норвегии ограничен 2 годами.
+
 > :fontawesome-solid-circle-exclamation: Учитываете, что вы не освобождены от оплаты за проезд по платным автомобильным норвежскими дорогами. 
 
+**См. также**: [:octicons-link-external-16: Використання автомобіля з іноземними номерами](https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina2/)
 
 ## Страховка автогражданской ответственности { #forsikring }
-Использование на территории Норвегии транспортного средства требует наличия действующей в Норвегии страховки автогражданской ответственности. Страхование автогражданской ответственности является обязательным, согласно :octicons-law-16: [bilansvarslova § 15](https://lovdata.no/dokument/NL/lov/1961-02-03). 
+Использование на территории Норвегии транспортного средства требует наличия действующей в Норвегии страховки автогражданской ответственности. Страхование автогражданской ответственности является обязательным, согласно :octicons-law-16: [bilansvarslova § 15](https://lovdata.no/lov/1961-02-03/§15). 
 
 На транспортное средство, зарегистрированное в другом государстве и ввозимое на территорию Норвегии с целью временного использования, необходимо оформить полис пограничного страхования, если:
 
 - Транспортное средство зарегистрировано в государстве, не входящим в систему Зеленой карты, или
-- Транспортное средство **не имеет** действующей **Зеленой карты** или иной действительной на территории Норвегии страховки.
+- Транспортное средство **не имеет** действующей Зеленой карты или иной действительной на территории Норвегии страховки.
 
 Если у вас нет действительной страховки на момент въезда в Норвегию, то вы можете либо купить полис пограничного страхования (*grenseforsikring*) у таможни Норвегии, или оформить страховку в Украине для использования ее в Норвегии, что будет дешевле для вас. Покупать именно норвежскую страховку не обязательно, но машина должна быть застрахована.
 
@@ -39,12 +43,13 @@ hide:
 > 
 > Законодательство 
 >
-> - [Bilansvarslova §15](https://lovdata.no/dokument/NL/lov/1961-02-03)
+> - [Bilansvarslova §15](https://lovdata.no/lov/1961-02-03/§15)
 >
 > Официальные сайты Норвегии
 >
 > - [Інформація для шукачів притулку з України. Використання автомобіля з іноземними номерами (skatteetaten.no)](https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina2/){target=_blank}
-> - [Таможня Норвегии (Toll). Важная информация для беженцев из Украины.](https://www.toll.no/no/verktoy/regelverk/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/)
+> - [Viktig informasjon til flyktninger fra Ukraina (Toll)](https://www.toll.no/no/verktoy/regelverk/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/)
+> - [Інформація для шукачів притулку з України (Skatteetaten)](https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina2/)
 
 # Водительские удостоверения { #forerkort }
 
@@ -66,7 +71,7 @@ hide:
 > 
 > Официальные сайты Норвегии
 > 
-> - [Норвежская дорожная администрация (Statens vegvesen). О водительских прав Украины](https://www.vegvesen.no/forerkort/har-forerkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/forerkort-fra-ukraina/){target=_blank}.
+> - [Driving licences from Ukraine (Statens vegvesen)](https://www.vegvesen.no/forerkort/har-forerkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/forerkort-fra-ukraina/){target=_blank}.
 > - [Driver Certificate of Professional Competence (Statens vegvesen)](https://www.vegvesen.no/en/driving-licences/training-for-professional-drivers/professional-driver/?lang=en)
 
 

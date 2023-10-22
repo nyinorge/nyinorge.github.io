@@ -3,9 +3,10 @@ hide:
   - navigation
   - toc
 ---
+
 !!! updated ""
 
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **11.10.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на {{ git_revision_date_localized }}
 
 !!! question "Cписок вопросов"
     [TOC]

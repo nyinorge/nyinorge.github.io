@@ -5,7 +5,7 @@ hide:
 ---
 !!! updated ""
 
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на **11.10.2023**
+    :octicons-clock-16: Информация на этой странице актуальна по состоянию на {{ git_revision_date_localized }}
 
 # Таможенные правила для въезжающих в Норвегию { #toll }
 Подробнее о таможенных правилах для въезжающих в Норвегию можно найти на сайте Таможни Норвегии (Toll): [:octicons-link-external-16: https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/](https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/)

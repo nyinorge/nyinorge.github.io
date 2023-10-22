@@ -9,7 +9,7 @@ hide:
 
 !!! warning ""
 
-    Норвегия **ПРИНИМАЕТ** беженцев из Украины, ищущих коллективную защиту!
+    :material-calendar-month: На данный момент Норвегия **принимает** беженцев из Украины.
 
 # Часто задаваемые вопросы { #faq }
 
@@ -34,10 +34,12 @@ hide:
 
 ## :material-hammer-wrench: [Про работу в Норвегии](jobb.md)
 
+## :fontawesome-solid-graduation-cap: [Образование в Норвегии](utdanning.md)
+
 ## :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
 
 ## :material-passport: [Получения постоянного вида на жительство в Норвегии](permanent-oppholdstillatelse.md)
 
 ## :fontawesome-solid-chart-pie: [Статистика](statistikk.md)
 
-## :flag_ua: [Посольство України в Норвегії](https://norway.mfa.gov.ua/)
+## :flag_ua: [Посольство України в Норвегії](https://norway.mfa.gov.ua/) | [Українська громада в Норвегії](https://www.facebook.com/DenUkrainskeForeningiNorge/) | [Українці в Норвегії](https://www.ukrainere.no/about-us/)
