@@ -34,8 +34,6 @@ hide:
 
 ## :material-hammer-wrench: [Про работу в Норвегии](jobb.md)
 
-## :fontawesome-solid-graduation-cap: [Образование в Норвегии](utdanning.md)
-
 ## :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
 
 ## :material-passport: [Получения постоянного вида на жительство в Норвегии](permanent-oppholdstillatelse.md)
