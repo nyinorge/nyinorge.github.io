@@ -216,7 +216,6 @@ Bufetat занимается расселением несопровождаем
 > - [Запитання та відповіді про захист (притулок) та проживання у притулку для біженців в Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers)
 > - [Прибуття до Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/)
 > - [Питання та відповіді. Як відбувається реєстрація, та що робити після проходження реєстрації (Politiet)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
-> - [Applying for collective protection as a Ukrainian national (Politiet)](https://www.politiet.no/en/english/residence-permits-and-protection/the-war-in-ukraine/applying-for-collective-protection-as-a-ukrainian-national/)
 
 
 # У меня еще есть вопросы { #sporsmål }
