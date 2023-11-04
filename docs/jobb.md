@@ -42,7 +42,8 @@ hide:
 
 Директорат высшего образования и компетенции (Hk-dir) имеет несколько различных процедур признания иностранного образования:
 
-- [:octicons-link-external-16: Визнання закордонної освіти](https://www.nyinorge.no/uk/living-in-norway/utdanning---/)
+- Автоматическое признание образования: Hk-dir предлагает автоматическое признание определенных степеней из Украины. Автоматическое признание представляет собой стандартизированное информационное письмо о том, к какой норвежской степени может быть приравнена иностранная степень. [:octicons-link-external-16: Это письмо можно скачать и использовать сразу, без подачи заявления о признании](https://hkdir.no/en/foreign-education/education-from-outside-of-norway/recognition-of-foreign-higher-education-bachelor-master-and-phd/automatic-recognition-a-quicker-alternative). 
+
 - [:octicons-link-external-16: Подтверждение иностранного образования (HK-dir)](https://hkdir.no/en/foreign-education)
 
 - [:octicons-link-external-16: Список регулируемых профессий в Норвегии (HK-dir)](https://hkdir.no/en/foreign-education/lists-and-databases/regulated-professions) 
