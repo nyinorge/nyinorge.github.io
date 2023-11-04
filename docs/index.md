@@ -18,7 +18,7 @@ hide:
 ## :octicons-law-16: [Коллективная защита](kollektiv-beskyttelse.md)
 Критерии получение коллективной защиты. Как (и где) подать ходатайство о получении коллективной защиты. Различия коллективной защиты и индивидуальной защиты.
 
-## :guide_dog: [Въезд с домашним питомцем в Норвегию](kjaeledyr.md)
+## :guide_dog: [Въезд с домашним питомцем](kjaeledyr.md)
 
 ## :speaking_head: [Як спілкуватися через перекладача](https://www.imdi.no/globalassets/illustrasjoner/ukraina/a-fore-en-samtale-via-tolk_ukrainsk.pdf)
 
@@ -32,7 +32,7 @@ hide:
 
 ## :red_car: [Водительские права и использование личного автомобиля](forerkort-og-bil.md)
 
-## :material-hammer-wrench: [Про работу в Норвегии](jobb.md)
+## :material-hammer-wrench: [Работа в Норвегии](jobb.md)
 
 ## :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
 
