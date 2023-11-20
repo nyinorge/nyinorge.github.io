@@ -4,6 +4,10 @@
   overflow: auto;
 }
 
+.md-header {
+  background-color: #000;
+}
+
 .md-banner__inner {
   font-size: 0.9rem;
   margin: 1.3rem auto;
