@@ -1,8 +1,9 @@
-site_name: Ny i Norge 🇺🇦
+site_name: Ny i Norge 🇺🇦 (старая версия)
 theme:
   font:
     text: Montserrat
   name: material
+  custom_dir: overrides
   palette:
       scheme: default
   language: ru
@@ -14,6 +15,7 @@ theme:
     - search.suggest
     - search.share
     - navigation.top
+    
 
 extra_css:
   - assets/stylesheets/extra.css

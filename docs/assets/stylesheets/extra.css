@@ -1,3 +1,14 @@
+.md-banner {
+  background-color: #df1818de;;
+  color: var(--md-footer-fg-color);
+  overflow: auto;
+}
+
+.md-banner__inner {
+  font-size: 0.9rem;
+  margin: 1.3rem auto;
+}
+
 .md-typeset .admonition, .md-typeset details {
   color: var(--md-admonition-fg-color);
   font-size: .74rem;
