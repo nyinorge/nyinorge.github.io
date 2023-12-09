@@ -3,28 +3,15 @@ hide:
   - navigation
   - toc
 ---
-!!! updated ""
-
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на {{ git_revision_date_localized }}
-
-# Таможенные правила для въезжающих в Норвегию { #toll }
-Подробнее о таможенных правилах для въезжающих в Норвегию можно найти на сайте Таможни Норвегии (Toll): [:octicons-link-external-16: https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/](https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/)
-
-# Ввоз лекарств из стран за пределами Евросоюза { #legemidler }
-- Ввоз лекарств разрешён **только для своего личного пользования**, количество на срок до 3 месяцев.
-- При въезде в Норвегию вы должны иметь возможность документально подтвердить, что лекарства, которые вы имеете при себе, предназначены для личного использования.
-    - Примерами такой документации могут быть рецепт, справка от врача или аптечная этикетка на упаковке.
-    - Кроме того, вас могут попросить предъявить квитанцию ​​или другую документацию о том, что лекарства были приобретены на законных основаниях. 
-    - Документы необходимо предъявлять при пересечении границы.
-- Ввозить лекарства рекомендуется в оригинальной упаковке.
-- Лекарства наркотического и допингового содержания - особые правила.
-
-> :material-book-outline: Источники: 
-> 
-> Официальные сайты Норвегии
->
-> - [Import av legemidler til personlig bruk (Statens legemiddelverk)](https://legemiddelverket.no/import-og-salg/import-til-personlig-bruk/legemidler-pa-reise-inn-til-norge)
-
+<div data-md-component="announce">
+      <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+            
+  Сайт переехал на новый домен: <b><a href="https://norgeinfo.github.io/">https://norgeinfo.github.io/</a></b>. Для получение актуальной информации, перейдите по ссылке.
+</div>
+</aside>
+</div>
 
 ---
 
